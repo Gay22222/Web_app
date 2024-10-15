@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\",
+  "WorkspaceRootPath": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\projekt\\test\\blazor_test_app\\blazor_test_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\git\\web_app\\test\\blazor_test_app\\blazor_test_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|solutionrelative:blazor_test_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\projekt\\test\\blazor_test_app\\blazor_test_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\git\\web_app\\test\\blazor_test_app\\blazor_test_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|solutionrelative:blazor_test_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\projekt\\test\\blazor_test_app\\blazor_test_app\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\git\\web_app\\test\\blazor_test_app\\blazor_test_app\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|solutionrelative:blazor_test_app\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\projekt\\test\\blazor_test_app\\blazor_test_app\\views\\auth\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\git\\web_app\\test\\blazor_test_app\\blazor_test_app\\views\\auth\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|solutionrelative:blazor_test_app\\views\\auth\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\projekt\\test\\blazor_test_app\\blazor_test_app\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\git\\web_app\\test\\blazor_test_app\\blazor_test_app\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|solutionrelative:blazor_test_app\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\projekt\\test\\blazor_test_app\\blazor_test_app\\controllers\\mvc\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\git\\web_app\\test\\blazor_test_app\\blazor_test_app\\controllers\\mvc\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|solutionrelative:blazor_test_app\\controllers\\mvc\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\projekt\\test\\blazor_test_app\\blazor_test_app\\controllers\\mvc\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\git\\web_app\\test\\blazor_test_app\\blazor_test_app\\controllers\\mvc\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|solutionrelative:blazor_test_app\\controllers\\mvc\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\projekt\\test\\blazor_test_app\\blazor_test_app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\git\\web_app\\test\\blazor_test_app\\blazor_test_app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|solutionrelative:blazor_test_app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\projekt\\test\\blazor_test_app\\blazor_test_app\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\git\\web_app\\test\\blazor_test_app\\blazor_test_app\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|solutionrelative:blazor_test_app\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\projekt\\test\\blazor_test_app\\blazor_test_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|e:\\uit\\git\\web_app\\test\\blazor_test_app\\blazor_test_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D104813-B386-40CB-B9C7-8F3A13DEBB4F}|Blazor_Test_App\\Blazor_Test_App.csproj|solutionrelative:blazor_test_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -60,87 +60,81 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Blazor_Test_App\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Blazor_Test_App\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAAAiwBQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T09:50:48.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T09:50:48.657Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Auth\\Login.cshtml.cs",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Auth\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Blazor_Test_App\\Views\\Auth\\Login.cshtml.cs",
-              "ToolTip": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Auth\\Login.cshtml.cs",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Auth\\Login.cshtml.cs",
               "RelativeToolTip": "Blazor_Test_App\\Views\\Auth\\Login.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T09:45:34.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T09:45:34.785Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Auth\\Register.cshtml",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Auth\\Register.cshtml",
               "RelativeDocumentMoniker": "Blazor_Test_App\\Views\\Auth\\Register.cshtml",
-              "ToolTip": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Auth\\Register.cshtml",
               "RelativeToolTip": "Blazor_Test_App\\Views\\Auth\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T09:45:22.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T09:45:22.529Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Auth\\Login.cshtml",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "Blazor_Test_App\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Auth\\Login.cshtml",
               "RelativeToolTip": "Blazor_Test_App\\Views\\Auth\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T09:44:53.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T09:44:53.791Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Controllers\\Mvc\\AuthController.cs",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Controllers\\Mvc\\AuthController.cs",
               "RelativeDocumentMoniker": "Blazor_Test_App\\Controllers\\Mvc\\AuthController.cs",
-              "ToolTip": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Controllers\\Mvc\\AuthController.cs",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Controllers\\Mvc\\AuthController.cs",
               "RelativeToolTip": "Blazor_Test_App\\Controllers\\Mvc\\AuthController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T09:43:10.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T09:43:10.49Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Controllers\\Mvc\\HomeController.cs",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Controllers\\Mvc\\HomeController.cs",
               "RelativeDocumentMoniker": "Blazor_Test_App\\Controllers\\Mvc\\HomeController.cs",
-              "ToolTip": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Controllers\\Mvc\\HomeController.cs",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Controllers\\Mvc\\HomeController.cs",
               "RelativeToolTip": "Blazor_Test_App\\Controllers\\Mvc\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T09:28:33.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T09:28:33.902Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "_Imports.razor",
-              "DocumentMoniker": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Components\\_Imports.razor",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "Blazor_Test_App\\Components\\_Imports.razor",
-              "ToolTip": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Components\\_Imports.razor",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Components\\_Imports.razor",
               "RelativeToolTip": "Blazor_Test_App\\Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -150,9 +144,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Program.cs",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Program.cs",
               "RelativeDocumentMoniker": "Blazor_Test_App\\Program.cs",
-              "ToolTip": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Program.cs",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Program.cs",
               "RelativeToolTip": "Blazor_Test_App\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -162,11 +156,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Blazor_Test_App\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Blazor_Test_App\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-07T02:19:21.307Z",
               "EditorCaption": ""
@@ -175,9 +169,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "site.css",
-              "DocumentMoniker": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Blazor_Test_App\\wwwroot\\css\\site.css",
-              "ToolTip": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Blazor_Test_App\\wwwroot\\css\\site.css",
               "ViewState": "AgIAADYAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
