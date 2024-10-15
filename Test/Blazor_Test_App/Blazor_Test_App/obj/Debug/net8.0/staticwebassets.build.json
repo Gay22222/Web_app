@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "ssCENlqinbxaI8t78+Mc+gsBk6lQ6bGt4A9rQ5EfnG4=",
+  "Source": "Blazor_Test_App",
+  "BasePath": "_content/Blazor_Test_App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Blazor_Test_App\\wwwroot",
+      "Source": "Blazor_Test_App",
+      "ContentRoot": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\wwwroot\\",
+      "BasePath": "_content/Blazor_Test_App",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\wwwroot\\css\\site.css",
+      "SourceId": "Blazor_Test_App",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\wwwroot\\",
+      "BasePath": "_content/Blazor_Test_App",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\wwwroot\\css\\site.css.map",
+      "SourceId": "Blazor_Test_App",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\wwwroot\\",
+      "BasePath": "_content/Blazor_Test_App",
+      "RelativePath": "css/site.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css.map"
+    }
+  ]
+}
