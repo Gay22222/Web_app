@@ -1,0 +1,34 @@
+﻿@model Blazor_Test_App.Models.Product
+
+<h2>Edit Product</h2>
+
+<form asp-action="EditProduct" method="post">
+    <input type="hidden" asp-for="ProductID" />
+
+    <div>
+        <label for="ProductName">Product Name</label>
+        <input type="text" asp-for="ProductName" value="@Model.ProductName" required />
+    </div>
+
+    <div>
+        <label for="Price">Price</label>
+        <input type="number" asp-for="Price" value="@Model.Price" required />
+    </div>
+
+    <div>
+        <label for="StockQuantity">Stock Quantity</label>
+        <input type="number" asp-for="StockQuantity" value="@Model.StockQuantity" required />
+    </div>
+
+    <div>
+        <label for="Description">Description</label>
+        <textarea asp-for="Description" required>@Model.Description</textarea>
+    </div>
+
+    <div>
+        <label for="ImageURL">Image URL</label>
+        <input type="text" asp-for="ImageURL" value="@Model.ImageURL" required />
+    </div>
+
+    <button type="submit">Save Changes</button>
+</form>

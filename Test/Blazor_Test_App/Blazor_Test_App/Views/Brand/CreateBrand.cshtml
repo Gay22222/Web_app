@@ -1,0 +1,35 @@
+﻿@model Blazor_Test_App.Models.Brand
+
+<h2>Add New Brand</h2>
+
+<!-- Hiển thị thông báo lỗi nếu có -->
+@if (ViewBag.Error != null)
+{
+    <div style="color: red;">
+        <strong>@ViewBag.Error</strong>
+    </div>
+}
+
+<!-- Hiển thị thông báo thành công -->
+@if (TempData["SuccessMessage"] != null)
+{
+    <div style="color: green;">
+        <strong>@TempData["SuccessMessage"]</strong>
+    </div>
+}
+
+<form asp-action="CreateBrand" method="post">
+    <div>
+        <label for="BrandName">Brand Name</label>
+        <input type="text" id="BrandName" name="brandName" value="@Model.BrandName" required />
+    </div>
+
+    <div>
+        <label for="Description">Description</label>
+        <textarea id="Description" name="description">@Model.Description</textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Brand</button>
+</form>
+
+<a href="@Url.Action("ManageProducts", "Product")" class="btn btn-secondary">Quay lại </a>

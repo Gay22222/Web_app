@@ -1,0 +1,11 @@
+﻿@model Blazor_Test_App.Models.Category
+
+<h2>Xóa Category</h2>
+
+<p>Bạn có chắc muốn xóa Category: <strong>@Model.CategoryName</strong>?</p>
+
+<form asp-action="Delete" method="post">
+    <button type="submit" class="btn btn-danger">Xóa</button>
+</form>
+
+<a href="@Url.Action("ManageCategory", "Category")" class="btn btn-secondary">Quay lại</a>

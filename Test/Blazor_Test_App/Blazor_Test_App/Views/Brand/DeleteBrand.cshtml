@@ -1,0 +1,11 @@
+﻿@model Blazor_Test_App.Models.Brand
+
+<h2>Xóa Brand</h2>
+
+<p>Bạn có chắc muốn xóa Brand: <strong>@Model.BrandName</strong>?</p>
+
+<form asp-action="Delete" method="post">
+    <button type="submit" class="btn btn-danger">Xóa</button>
+</form>
+
+<a href="@Url.Action("ManageBrand", "Brand")" class="btn btn-secondary">Quay lại</a>

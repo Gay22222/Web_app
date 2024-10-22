@@ -1,0 +1,28 @@
+﻿@model Blazor_Test_App.Models.Category
+
+<h2>Chỉnh sửa Category</h2>
+
+<form asp-action="Edit" method="post">
+    <div>
+        <label for="CategoryName">Tên Category</label>
+        <input type="text" id="CategoryName" name="CategoryName" value="@Model.CategoryName" required />
+    </div>
+
+    <div>
+        <label for="Description">Mô tả</label>
+        <textarea id="Description" name="Description" required>@Model.Description</textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Lưu thay đổi</button>
+</form>
+
+<a href="@Url.Action("ManageCategory", "Category")" class="btn btn-secondary">Quay lại</a>
+
+
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div style="color: green;">
+        <strong>@TempData["SuccessMessage"]</strong>
+    </div>
+}

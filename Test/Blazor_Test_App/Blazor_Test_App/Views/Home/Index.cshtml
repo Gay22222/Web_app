@@ -1,9 +1,22 @@
-﻿@{
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@{
     ViewData["Title"] = "Home Page";
 }
+
 
 <h2>Welcome to Our Website</h2>
 <p>Please choose an option below:</p>
 
 <a href="@Url.Action("Login", "Auth")">Login</a> |
 <a href="@Url.Action("Register", "Auth")">Register</a>
+
+
+<a href="@Url.Action("ListProduct", "Product")">View Product List</a>
+
+
+@if (HttpContextAccessor.HttpContext.Session.GetString("UserType") == "Admin")
+{
+    <a href="@Url.Action("ManageProducts", "Product")" class="btn btn-primary">Quản lý sản phẩm</a>
+    <a href="@Url.Action("ManageBrand", "Brand")" class="btn btn-primary">Quản lý Brand</a>
+    <a href="@Url.Action("ManageCategory", "Category")" class="btn btn-primary">Quản lý Category</a>
+}

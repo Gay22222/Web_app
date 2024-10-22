@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Blazor_Test_App.csproj": {}
+    "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Blazor_Test_App.csproj": {}
   },
   "projects": {
-    "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Blazor_Test_App.csproj": {
+    "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Blazor_Test_App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Blazor_Test_App.csproj",
+        "projectUniqueName": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Blazor_Test_App.csproj",
         "projectName": "Blazor_Test_App",
-        "projectPath": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\Blazor_Test_App.csproj",
+        "projectPath": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\Blazor_Test_App.csproj",
         "packagesPath": "C:\\Users\\QUANG\\.nuget\\packages\\",
-        "outputPath": "E:\\UIT\\Git\\Web_app\\Test\\Blazor_Test_App\\Blazor_Test_App\\obj\\",
+        "outputPath": "E:\\UIT\\Projekt\\Test\\Blazor_Test_App\\Blazor_Test_App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,26 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.BrowserLink": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,0 +1,70 @@
+﻿@model Blazor_Test_App.Models.Product
+
+@{
+    ViewData["Title"] = "Add New Product";
+}
+
+<h2>Add New Product</h2>
+
+<a href="@Url.Action("ManageProducts", "Product")" class="btn btn-secondary">Quay lại Quản lý Sản Phẩm</a>
+
+<!-- Hiển thị thông báo nếu có -->
+@if (TempData["SuccessMessage"] != null)
+{
+    <div style="color: green;">
+        <strong>@TempData["SuccessMessage"]</strong>
+    </div>
+}
+
+<form asp-action="Create" method="post">
+    <div>
+        <label for="ProductName">Product Name</label>
+        <input type="text" id="ProductName" name="ProductName" value="@Model.ProductName" required />
+    </div>
+
+    <div>
+        <label for="Price">Price</label>
+        <input type="number" id="Price" name="Price" value="@Model.Price" required />
+    </div>
+
+    <div>
+        <label for="StockQuantity">Stock Quantity</label>
+        <input type="number" id="StockQuantity" name="StockQuantity" value="@Model.StockQuantity" required />
+    </div>
+
+    <div>
+        <label for="Description">Description</label>
+        <textarea id="Description" name="Description" required>@Model.Description</textarea>
+    </div>
+
+    <!-- Dropdown chọn Brand -->
+    <div>
+        <label for="BrandID">Brand</label>
+        <select id="BrandID" name="BrandID" required>
+            <option value="">-- Select Brand --</option>
+            @foreach (var brand in ViewBag.Brands as List<Blazor_Test_App.Models.Brand>)
+            {
+                <option value="@brand.BrandID">@brand.BrandName</option>
+            }
+        </select>
+    </div>
+
+    <!-- Dropdown chọn Category -->
+    <div>
+        <label for="CategoryID">Category</label>
+        <select id="CategoryID" name="CategoryID" required>
+            <option value="">-- Select Category --</option>
+            @foreach (var category in ViewBag.Categories as List<Blazor_Test_App.Models.Category>)
+            {
+                <option value="@category.CategoryID">@category.CategoryName</option>
+            }
+        </select>
+    </div>
+
+    <div>
+        <label for="ImageURL">Image URL</label>
+        <input type="text" id="ImageURL" name="ImageURL" value="@Model.ImageURL" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Product</button>
+</form>

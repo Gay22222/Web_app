@@ -6,26 +6,28 @@ go
 -- Bảng thương hiệu (Brands Table)
 CREATE TABLE Brands (
     BrandID INT PRIMARY KEY IDENTITY(1,1),
-    BrandName VARCHAR(255) NOT NULL,
-    Description TEXT
+    BrandName NVARCHAR(255) NOT NULL,
+    Description NVARCHAR(MAX)
 );
+
 
 -- Bảng danh mục (Categories Table)
 CREATE TABLE Categories (
     CategoryID INT PRIMARY KEY IDENTITY(1,1),
-    CategoryName VARCHAR(255) NOT NULL,
-    Description TEXT
+    CategoryName NVARCHAR(255) NOT NULL,
+    Description NVARCHAR(MAX)
 );
+
 
 -- Bảng sản phẩm (Products Table)
 CREATE TABLE Products (
     ProductID INT PRIMARY KEY IDENTITY(1,1),
-    ProductName VARCHAR(255) NOT NULL,
+    ProductName NVARCHAR(255) NOT NULL,
     BrandID INT,
     CategoryID INT,
     Price DECIMAL(10, 2) NOT NULL,
     StockQuantity INT NOT NULL,
-    Description TEXT,
+    Description NVARCHAR(MAX),
     ImageURL VARCHAR(255),
     DateAdded DATETIME DEFAULT GETDATE(),
     LastUpdated DATETIME DEFAULT GETDATE(),
@@ -46,6 +48,7 @@ CREATE TABLE Users (
 );
 
 
+
 -- Bảng trạng thái đơn hàng (OrderStatus Table)
 CREATE TABLE OrderStatus (
     StatusID INT PRIMARY KEY IDENTITY(1,1),
@@ -60,7 +63,6 @@ CREATE TABLE Orders (
     OrderDate DATETIME DEFAULT GETDATE(),
     TotalAmount DECIMAL(10, 2) NOT NULL,
     ShippingAddress TEXT,
-    BillingAddress TEXT,
     PaymentMethod VARCHAR(50) CHECK (PaymentMethod IN ('Credit Card', 'E-Wallet')) NOT NULL,
     ShippingStatus INT,
     TrackingNumber VARCHAR(50),
@@ -95,6 +97,7 @@ CREATE TABLE TransactionHistory (
     FOREIGN KEY (OrderID) REFERENCES Orders(OrderID)
 );
 
+
 -- Bảng giỏ hàng (ShoppingCart Table)
 CREATE TABLE ShoppingCart (
     CartID INT PRIMARY KEY IDENTITY(1,1),
@@ -123,3 +126,22 @@ CREATE INDEX idx_transactionhistory_orderid_date ON TransactionHistory (OrderID,
 
 -- Thêm chỉ mục vào bảng ShoppingCart để tìm kiếm nhanh hơn theo UserID và ProductID
 CREATE INDEX idx_shoppingcart_user_product ON ShoppingCart (UserID, ProductID);
+
+
+
+INSERT INTO Products (ProductID, ProductName, BrandID, CategoryID, Price, StockQuantity, Description, ImageURL, DateAdded, LastUpdated)
+VALUES ('V.RX6600.8G.GG.EG.3F', 'Card màn hình VGA GIGABYTE Radeon RX 6600 EAGLE 8G', 1, 1, 5350000, 10, 
+'Card màn hình GIGABYTE Radeon RX 6600 EAGLE 8GB với tốc độ Boost lên đến 2491 MHz, bộ nhớ 8GB GDDR6, giao tiếp PCI-E 4.0 x 8.', 
+'https://product.hstatic.net/200000420363/product/_2023_-khung-sp-_1__e4dabe2bd54c49d39705d76f02e03c54_master.jpg', '2024-10-21', '2024-10-21');
+
+INSERT INTO Users (UserName, Email, PasswordHash, PhoneNumber, ShippingAddress, DateJoined, UserType)
+VALUES ('admin', 'admin@example.com', '8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918', '123456789', 'Admin Address', GETDATE(), 'Admin');
+
+delete from Users where UserName = 'admin'
+
+select *from Users
+
+delete  from Products where ProductID ='3'
+select * from Products
+select *from Brands
+select *from Categories
