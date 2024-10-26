@@ -1,0 +1,76 @@
+﻿@model BlueSports.HandleAdmin.ModelViews.RegisterViewModel
+
+@{
+    ViewData["Title"] = "Sign Up";
+    Layout = "_LayoutAccount";
+}
+
+
+
+
+<div class="form login">
+    <div class="form-content">
+        <header style="font-size: 25px">Đăng ký <a href="/Home" class="title-head">BlueSports</a></header>
+        <form asp-action="Register">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="field input-field">
+                <input type="text" asp-for="UserName" placeholder="Tên đăng nhập" class="input">
+                @*<span asp-validation-for="FullName" class="text-danger"></span>*@
+            </div>
+            <div class="field input-field">
+                <input type="email" asp-for="Email" placeholder="Email" class="input">
+                @*<span asp-validation-for="Email" class="text-danger"></span>*@
+            </div>
+            <div class="field input-field">
+                <input type="tel" asp-for="PhoneNumber" placeholder="Số Điện Thoại" class="input">
+                @*<span asp-validation-for="Phone" class="text-danger"></span>*@
+            </div>
+
+
+            <div class="field input-field">
+                <input type="password" asp-for="Password" placeholder="Mật khẩu" class="password">
+                <span asp-validation-for="Password" class="text-danger"></span>
+                <i id="togglePassword1" class="bx bx-hide eye-icon"></i>
+            </div>
+
+            <div class="field input-field">
+                <input type="password" asp-for="ConfirmPassword" placeholder="Nhập lại mật khẩu" class="password">
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                <i id="togglePassword2" class="bx bx-hide eye-icon"></i>
+            </div>
+
+
+            <div class="field button-field">
+                <button>Đăng ký</button>
+            </div>
+        </form>
+
+        <div class="form-link">
+            <span>Bạn đã có tài khoản ? <a href="/Log-in">Đăng Nhập !</a></span>
+        </div>
+    </div>
+
+    <div class="line"></div>
+
+    <div class="media-options">
+        <a href="#" class="field facebook">
+            <i class='bx bxl-facebook facebook-icon'></i>
+            <span>Đăng ký với Facebook</span>
+        </a>
+    </div>
+
+    <div class="media-options">
+        <a href="#" class="field google">
+            <img src="~/lib/google.png" alt="" class="google-img">
+            <span>Đăng ký với Google</span>
+        </a>
+    </div>
+
+</div>
+
+
+
+
+
+
+
