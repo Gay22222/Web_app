@@ -35,7 +35,7 @@ builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
 /*builder.Services.AddSignalR();*/
 builder.Services.AddNotyf(config =>
 {
-    config.DurationInSeconds = 3;
+    config.DurationInSeconds = 5;
     config.IsDismissable = true;
     config.Position = NotyfPosition.TopRight;
 });

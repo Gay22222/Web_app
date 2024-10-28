@@ -1,4 +1,4 @@
-﻿
+﻿@using BlueSports.Models
 @model BlueSports.Models.User
 
 
@@ -6,7 +6,7 @@
 @{
     ViewData["Title"] = "Dashboard";
     Layout = "~/Views/Shared/_Layout.cshtml";
-    // List<Order> DanhSachDonHang = ViewBag.DonHang;
+    List<Order> DanhSachDonHang = ViewBag.DonHang;
 
     BlueSports.HandleAdmin.ModelViews.ChangePasswordViewModel changePassword = new BlueSports.HandleAdmin.ModelViews.ChangePasswordViewModel();
 }

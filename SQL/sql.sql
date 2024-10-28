@@ -161,3 +161,6 @@ VALUES (3, 'V.RX6600.8G.GG.E.3F', '1', '1', 5350000, 10, 'Card màn hình GIGABY
 SET IDENTITY_INSERT Products OFF;
 
 
+delete from Users where UserName = 'clone'
+
+select * from Orders

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oqSYVNgIO9o=",
+  "dgSpecHash": "pTOLEO/44cQ=",
   "success": true,
-  "projectFilePath": "E:\\UIT\\Projekt\\BlueSports\\BlueSports\\BlueSports.csproj",
+  "projectFilePath": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\BlueSports.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\QUANG\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\aspnetcorehero.toastnotification.1.1.0.nupkg.sha512",
     "C:\\Users\\QUANG\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

@@ -2,6 +2,7 @@
 using BlueSports.Models;
 using BlueSports.Data;
 using System.Linq;
+using Microsoft.EntityFrameworkCore;
 
 namespace BlueSports.Controllers
 {
@@ -13,6 +14,10 @@ namespace BlueSports.Controllers
         {
             _context = context;
         }
+
+        
+
+
 
         // Hiển thị danh sách Category
         public IActionResult ManageCategory()

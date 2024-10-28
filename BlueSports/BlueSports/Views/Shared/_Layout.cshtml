@@ -45,7 +45,7 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
 
-                        <form asp-controller="TimKiem" asp-action="FindProduct" class="d-flex offset-1" method="post">
+                        <form asp-controller="Search" asp-action="SearchProduct" class="d-flex offset-1" method="post">
 
                             @Html.AntiForgeryToken()
                             <input class="form-control search-bar" name="keyword" type="text" placeholder="Search any products...">

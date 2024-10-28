@@ -6,7 +6,7 @@ namespace BlueSports.HandleAdmin.ModelViews
     public class RegisterViewModel
     {
         [Key]
-        public int CustomerId { get; set; }
+        public int UserId { get; set; }
         [Display(Name = "Họ và Tên")]
         [Required(ErrorMessage = "Vui lòng nhập Họ Tên")]
         public string UserName { get; set; }

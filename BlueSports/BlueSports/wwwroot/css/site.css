@@ -736,7 +736,7 @@ section .side-nav {
         border-radius: 5px;
         padding-top: 6px;
         height: 40px;
-        background-color: #175B6A;
+        background-color: #2182f0b6;
         color: rgb(238, 236, 236);
     }
 
@@ -1423,19 +1423,19 @@ section .title {
 .pagination-val a {
     color: black;
     font-size: 14px;
-    border: 2px solid #175B6a;
+    border: 2px solid black;
     border-radius: 30%;
     padding: 8px 12px;
     text-decoration: none;
 }
 
     .pagination-val a:hover {
-        background: #175B6a;
+        background: #2182f0b6;
         color: white
     }
 
 a.active_pagin {
-    background: #175B6a;
+    background: #2182f0b6;
     color: white;
 }
 /* Account Page ----- Profile Styling */
