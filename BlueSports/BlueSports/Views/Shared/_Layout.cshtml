@@ -73,11 +73,11 @@
 
                             </div>
                         </li>
-                        @* <li id="numberCart" class="offset-1 minicart-wrap me-3 me-lg-0">
+                        <li id="numberCart" class="offset-1 minicart-wrap me-3 me-lg-0">
                             @await Component.InvokeAsync("NumberCart")
-                        </li> *@
+                        </li>
 
-                        @*<li class="offset-1">
+                        @* <li class="offset-1">
                         <div style="margin-top: 7px">
                         <i class="fa-solid fa-cart-shopping"></i>
                         <div class="offcanvas-minicart_wrapper" id="miniCart">
@@ -89,14 +89,14 @@
                         </div>
 
                         </div>
-                        </li>*@
+                        </li> *@
                     </ul>
                 </div>
             </div>
         </nav>
-        @* <div class="offcanvas-minicart_wrapper" id="miniCart">
+        <div class="offcanvas-minicart_wrapper" id="miniCart">
             @await Component.InvokeAsync("HeaderCart")
-        </div> *@
+        </div>
     </header>
     <main role="main" class="">
         @RenderBody()

@@ -2,6 +2,9 @@
 using BlueSports.Models;
 using System.Collections.Generic;
 using BlueSports.Data;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using PagedList.Core;
+using Microsoft.EntityFrameworkCore;
 
 namespace BlueSports.Controllers
 {
@@ -13,6 +16,40 @@ namespace BlueSports.Controllers
         public ProductController(ApplicationDbContext context)
         {
             _context = context;
+        
+        }
+
+
+        [Route("ProductList", Name = "ShopProduct")]
+        public IActionResult Index(int? page)
+        {
+            try
+            {
+                // Thiết lập phân trang
+                int pageNumber = page ?? 1;
+                int pageSize = 10;
+
+                // Lấy danh sách sản phẩm và sắp xếp theo CreatedDate
+                var products = _context.Products
+                    .Include(p => p.Category)
+                    .AsNoTracking()
+                    .OrderBy(x => x.DateAdded);
+
+                // Áp dụng phân trang
+                IPagedList<Product> models = new PagedList<Product>(products, pageNumber, pageSize);
+
+                // Thiết lập dữ liệu danh mục cho ViewBag
+                ViewBag.CurrentPage = pageNumber;
+                ViewData["DanhMuc"] = new SelectList(_context.Categories, "CategoryID", "CategoryName");
+
+                return View(models);
+            }
+            catch (Exception ex)
+            {
+                // Ghi log lỗi nếu cần
+                Console.WriteLine($"Error: {ex.Message}");
+                return RedirectToAction("Index", "Home");
+            }
         }
 
         // Hiển thị danh sách sản phẩm từ CSDL
@@ -21,6 +58,39 @@ namespace BlueSports.Controllers
             var products = _context.Products.ToList();
             return View(products);
         }
+
+
+        [Route("/{Alias}-{id}", Name = ("ProductName"))]
+        public IActionResult Details(int id)
+        {
+            try
+            {
+                // Lấy sản phẩm và bao gồm thông tin danh mục (Cate)
+                var product = _context.Products
+                    .Include(x => x.Category) // Điều chỉnh nếu tên bảng là "Category"
+                    .FirstOrDefault(x => x.ProductID == id);
+
+                // Kiểm tra nếu sản phẩm không tồn tại
+                if (product == null)
+                {
+                    return RedirectToAction("Index");
+                }
+
+                // Tạo SelectList cho danh mục nếu cần hiển thị danh mục khác
+                ViewData["DanhMuc"] = new SelectList(_context.Categories, "CategoryID", "CategoryName");
+
+                // Trả về View với model product
+                return View(product);
+            }
+            catch (Exception ex)
+            {
+                // Ghi log lỗi nếu cần
+                Console.WriteLine($"Error: {ex.Message}");
+                return RedirectToAction("Index", "Home");
+            }
+        }
+
+
 
         // Hiển thị form thêm sản phẩm (Chỉ dành cho Admin)
         [HttpGet]
@@ -37,7 +107,6 @@ namespace BlueSports.Controllers
             return View(new Product()); // Hiển thị form thêm sản phẩm
         }
         // Xử lý việc thêm sản phẩm (POST)
-        [HttpPost]
         [HttpPost]
         public IActionResult CreateProduct(string productName, decimal price, int stockQuantity, string description, string imageUrl, int brandId, int categoryId)
         {
@@ -77,16 +146,16 @@ namespace BlueSports.Controllers
         }
 
         // Hiển thị chi tiết sản phẩm
-        public IActionResult Details(int id)
-        {
-            var product = _context.Products.FirstOrDefault(p => p.ProductID == id);
-            if (product == null)
-            {
-                return NotFound();
-            }
+        //public IActionResult Details(int id)
+        //{
+        //    var product = _context.Products.FirstOrDefault(p => p.ProductID == id);
+        //    if (product == null)
+        //    {
+        //        return NotFound();
+        //    }
 
-            return View(product);
-        }
+        //    return View(product);
+        //}
 
         public IActionResult ManageProducts()
         {

@@ -797,6 +797,8 @@ E:\UIT\Git\Web_app\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.SqlServer.Se
 E:\UIT\Git\Web_app\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 E:\UIT\Git\Web_app\BlueSports\BlueSports\bin\Debug\net8.0\Mono.TextTemplating.dll
 E:\UIT\Git\Web_app\BlueSports\BlueSports\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\UIT\Git\Web_app\BlueSports\BlueSports\bin\Debug\net8.0\PagedList.Core.dll
+E:\UIT\Git\Web_app\BlueSports\BlueSports\bin\Debug\net8.0\PagedList.Core.Mvc.dll
 E:\UIT\Git\Web_app\BlueSports\BlueSports\bin\Debug\net8.0\System.CodeDom.dll
 E:\UIT\Git\Web_app\BlueSports\BlueSports\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 E:\UIT\Git\Web_app\BlueSports\BlueSports\bin\Debug\net8.0\System.Composition.Convention.dll
