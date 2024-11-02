@@ -1,10 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using BlueSports.Data;
 using BlueSports.Models;
-using System.Collections.Generic;
-using BlueSports.Data;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using PagedList.Core;
 using Microsoft.EntityFrameworkCore;
+using PagedList.Core;
 
 namespace BlueSports.Controllers
 {
@@ -16,7 +15,7 @@ namespace BlueSports.Controllers
         public ProductController(ApplicationDbContext context)
         {
             _context = context;
-        
+
         }
 
 
@@ -248,7 +247,7 @@ namespace BlueSports.Controllers
                 _context.SaveChanges();
                 TempData["SuccessMessage"] = "Product has been deleted successfully."; // Thông báo thành công
             }
-    
+
             return RedirectToAction("ManageProducts"); // Chuyển hướng về trang quản lý sản phẩm
         }
 

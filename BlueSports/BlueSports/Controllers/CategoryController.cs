@@ -1,8 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using BlueSports.Data;
 using BlueSports.Models;
-using BlueSports.Data;
-using System.Linq;
-using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Mvc;
 
 namespace BlueSports.Controllers
 {
@@ -15,7 +13,7 @@ namespace BlueSports.Controllers
             _context = context;
         }
 
-        
+
 
 
 

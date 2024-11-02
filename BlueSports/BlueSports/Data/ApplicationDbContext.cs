@@ -1,6 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
-using BlueSports.Models;
-using System.Collections.Generic;
+﻿using BlueSports.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace BlueSports.Data
 {
@@ -18,6 +17,7 @@ namespace BlueSports.Data
         public DbSet<Order> Orders { get; set; }
         public DbSet<OrderDetail> OrderDetails { get; set; }
         public DbSet<TransactionHistory> TransactionHistory { get; set; }
+        public DbSet<ShoppingCart> shoppingCarts { get; set; }
 
     }
 }

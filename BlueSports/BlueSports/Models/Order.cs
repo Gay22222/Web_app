@@ -1,6 +1,4 @@
-﻿using System.Linq;
-
-namespace BlueSports.Models
+﻿namespace BlueSports.Models
 {
     public class Order
     {

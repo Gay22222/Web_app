@@ -8,12 +8,11 @@
 }
 
 
-
 <div id="product-details">
     <div class="container">
         <div class="mt-4" style="margin-bottom: 60px">
             <a href="/ProductList" class="text-body">
-                <i class="fas fa-long-arrow-alt-left me-4"></i>Return to shop
+                <i class="fas fa-long-arrow-alt-left me-4"></i>Về trang cửa hàng
             </a>
         </div>
         <div class="card-wrapper">
@@ -69,7 +68,7 @@
                         <p>@Model.Description</p>
                         <ul>
                             <li>Available: <span>@Model.StockQuantity in stock</span></li>
-                            <li>Category: <span><a href="/danhmuc/@Model.Category.CategoryID">@Model.Category.CategoryName</a></span></li>
+                            <li>Danh mục: <span><a href="/danhmuc/@Model.Category.CategoryID">@Model.Category.CategoryName</a></span></li>
                             <li>Warranty: <span>1 year</span></li>
                             <li>Shipping Area: <span>All over the world</span></li>
                             <li>Shipping Fee: <span>Free</span></li>
@@ -78,9 +77,9 @@
                     </div>
                     <div class="purchase-info">
                         <input id="txtsoLuong" name="txtsoLuong" type="number" min="1" value="1">
-                        <button type="button" class="btn add-to-cart">
+                        <input hidden asp-for="ProductID" />
+                        <button type="button" class="btn add-to-cart ">
                             Add to Cart <i class="fas fa-shopping-cart"></i>
-                            <input hidden asp-for="ProductID" />
                         </button>
                     </div>
                 </div>
@@ -88,52 +87,59 @@
         </div>
     </div>
 </div>
-
 @section Scripts {
     <script>
         $(document).ready(function () {
-            $(".add-to-cart").click(function () {
-                var productId = $(this).data("productid");
-                var amount = $("#txtSoLuong").val();
+            $(function () {
+                $(".add-to-cart").click(function () {
+                    var productid = $('#ProductID').val();
+                    var soLuong = $('#txtsoLuong').val();
+                    $.ajax({
+                        url: '/api/cart/add',
+                        type: "POST",
+                        dataType: "JSON",
+                        data: {
+                            id: productid,
+                            amount: soLuong
+                        },
+                        success: function (response) {
+                            if (response.result == 'Redirect') {
+                                
+                                
+                                location = response.url;
+                            }
+                            else {
+                                loadHeaderCart(); //Add Product success
 
-                $.ajax({
-                    url: "/api/cart/add",
-                    type: "POST",
-                    dataType: "json",
-                    data: { productId: productId, amount: amount },
-                    success: function (response) {
-                        if (response.success) {
-                            loadHeaderCart(); // Tải lại số lượng giỏ hàng
-                            alert("Product added to cart successfully!");
-                        } else {
-                            alert("Error: " + response.message);
+                                location.reload();
+                            }
+                        },
+                        error: function (error) {
+                            alert("There was an error posting the data to the server: " + error.responseText);
                         }
-                    },
-                    error: function (xhr) {
-                        alert("An error occurred: " + xhr.responseText);
-                    }
+                    });
+                });
+
+                $(".removecart").click(function () {
+                    var productid = $(this).attr("data-productid");
+                    console.log("Received ProductID: " + productid);
+                    $.ajax({
+                        url: "api/cart/remove",
+                        type: "POST",
+                        dataType: "JSON",
+                        data: { id: productid },
+                        success: function (result) {
+                            if (result.success) {
+                                loadHeaderCart();//Reload lai gio hang
+                                location.reload();
+                            }
+                        },
+                        error: function (rs) {
+                            alert("Remove Cart Error !")
+                        }
+                    });
                 });
             });
-
-        $(".removecart").click(function () {
-                var productid = $(this).attr("data-productid");
-                $.ajax({
-                url: "api/cart/remove",
-                type: "POST",
-                dataType: "JSON",
-                data: { productID: productid },
-                success: function (result) {
-                if (result.success) {
-                loadHeaderCart();//Reload lai gio hang
-                location.reload();
-                }
-                },
-                error: function (rs) {
-                alert("Remove Cart Error !")
-                }
-                });
-                });
-                });
             function loadHeaderCart() {
                 $('#miniCart').load("/AjaxContent/HeaderCart");
                 $('#numberCart').load("/AjaxContent/NumberCart");

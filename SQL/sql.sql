@@ -164,3 +164,9 @@ SET IDENTITY_INSERT Products OFF;
 delete from Users where UserName = 'clone'
 
 select * from Orders
+
+select* from ShoppingCart
+
+
+update Products
+set ProductName  = 'SSD Kingston 500G NV2' where ProductID = 12

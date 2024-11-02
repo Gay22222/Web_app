@@ -1,15 +1,14 @@
-﻿using BlueSports.Data;
+﻿using AspNetCoreHero.ToastNotification.Abstractions;
+using BlueSports.Data;
+using BlueSports.HandleAdmin.ModelViews;
 using BlueSports.Models;
-using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using System.Linq;
 using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
-using BlueSports.HandleAdmin.ModelViews;
-using AspNetCoreHero.ToastNotification.Abstractions;
 
 namespace BlueSports.Controllers
 {
@@ -95,7 +94,7 @@ namespace BlueSports.Controllers
             var userID = HttpContext.Session.GetString("UserId");
             if (userID != null)
             {
-                return RedirectToAction("Dashboard","Account");
+                return RedirectToAction("Dashboard", "Account");
             }
             return View();
         }
