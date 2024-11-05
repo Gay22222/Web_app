@@ -27,7 +27,7 @@ namespace BlueSports.Controllers
                 // Thiết lập phân trang
                 int pageNumber = page ?? 1;
                 int pageSize = 10;
-
+                ViewBag.Categories = _context.Categories;
                 // Lấy danh sách sản phẩm và sắp xếp theo CreatedDate
                 var products = _context.Products
                     .Include(p => p.Category)
@@ -51,15 +51,10 @@ namespace BlueSports.Controllers
             }
         }
 
-        // Hiển thị danh sách sản phẩm từ CSDL
-        public IActionResult ListProduct()
-        {
-            var products = _context.Products.ToList();
-            return View(products);
-        }
 
 
-        [Route("/{Alias}-{id}", Name = ("ProductName"))]
+
+        [Route("/{productName}-{id:int}", Name = "ProductDetails")]
         public IActionResult Details(int id)
         {
             try
@@ -68,7 +63,8 @@ namespace BlueSports.Controllers
                 var product = _context.Products
                     .Include(x => x.Category) // Điều chỉnh nếu tên bảng là "Category"
                     .FirstOrDefault(x => x.ProductID == id);
-
+                
+                
                 // Kiểm tra nếu sản phẩm không tồn tại
                 if (product == null)
                 {
@@ -90,7 +86,130 @@ namespace BlueSports.Controllers
         }
 
 
+        
 
+        public IActionResult Filter(int categoryId = 0)
+        {
+            string url;
+
+            if (categoryId > 0)
+            {
+                url = $"/danhmuc/{categoryId}";
+            }
+            else
+            {
+                url = "/ProductList";
+            }
+
+            return Json(new { status = "success", redirecturl = url });
+        }
+
+        [Route("danhmuc/{categoryId}", Name = "ListProduct")]
+        public IActionResult List(int categoryId, int page = 1)
+        {
+            try
+            {
+                var pageSize = 10;
+                var category = _context.Categories.AsNoTracking().SingleOrDefault(x => x.CategoryID == categoryId);
+
+                if (category == null)
+                {
+                    return RedirectToAction("Index", "Home");
+                }
+
+                var lsTinDangs = _context.Products
+                    .Include(x => x.Category)
+                    .AsNoTracking()
+                    .Where(x => x.CategoryID == categoryId)
+                    .OrderByDescending(x => x.DateAdded);
+
+                PagedList<Product> model = new PagedList<Product>(lsTinDangs, page, pageSize);
+                ViewBag.CurrentPage = page;
+                ViewBag.Category = category;
+
+                var categories = _context.Categories.ToList();
+                ViewBag.Categories = categories;
+
+
+                ViewData["DanhMuc"] = new SelectList(_context.Categories, "CategoryID", "Name");
+
+                return View(model);
+            }
+            catch
+            {
+                return RedirectToAction("Index", "Home");
+            }
+        }
+        [HttpGet]
+        [Route("Product/FilterAndSort", Name = "FilterAndSort")]
+        public IActionResult FilterAndSort(int? categoryId = null, int? brandId = null, int sortOption = 0, int page = 1)
+        {
+            try
+            {
+                const int pageSize = 10;
+
+                IQueryable<Product> products = _context.Products
+                    .Include(p => p.Category)
+                    .Include(p => p.Brand)
+                    .AsNoTracking();
+
+                if (categoryId.HasValue && categoryId.Value > 0)
+                {
+                    products = products.Where(p => p.CategoryID == categoryId);
+                }
+
+                if (brandId.HasValue && brandId.Value > 0)
+                {
+                    products = products.Where(p => p.BrandID == brandId);
+                }
+
+                products = sortOption switch
+                {
+                    2 => products.OrderBy(p => p.Price),
+                    3 => products.OrderByDescending(p => p.Price),
+                    _ => products.OrderByDescending(p => p.DateAdded)
+                };
+
+                IPagedList<Product> model = new PagedList<Product>(products, page, pageSize);
+
+                var resultData = model.Select(p => new
+                {
+                    p.ProductID,
+                    p.ProductName,
+                    p.Price,
+                    p.ImageURL,
+                    CategoryName = p.Category.CategoryName,
+                    BrandName = p.Brand.BrandName
+                }).ToList();
+
+                return PartialView("_ProductListPartial", model);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+                return Json(new { status = "error", message = "Error in filtering and sorting" });
+            }
+        }
+
+
+
+
+
+
+
+
+
+
+        // Phần dưới đây dùng cho admin
+
+
+
+        // Hiển thị danh sách sản phẩm từ CSDL
+        public IActionResult ListProduct()
+        {
+            var products = _context.Products.ToList();
+            return View(products);
+        }
         // Hiển thị form thêm sản phẩm (Chỉ dành cho Admin)
         [HttpGet]
         public IActionResult CreateProduct()

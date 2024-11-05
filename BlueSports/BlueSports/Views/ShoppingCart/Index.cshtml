@@ -68,9 +68,8 @@
                             <div class="row">
                                 <div style="text-align:center;" class="">
                                     <div class="cart-page-total">
-                                        <h2>Total Order</h2>
                                         <ul>
-                                            <li>Total Money <span>@Model.Sum(x => x.TotalMoney).ToString("#,##0") VNĐ</span></li>
+                                            <li>Tổng tiền <span>@Model.Sum(x => x.TotalMoney).ToString("#,##0") VNĐ</span></li>
                                         </ul>
                                         @if (User.Identity.IsAuthenticated)
                                         {
@@ -81,7 +80,7 @@
                                         }
                                         else
                                         {
-                                            <a href="/log-in.html?returnUrl=/checkout" class="btn btn-secondary btn-primary-hover">Checkout</a>
+                                            <a href="/log-in.html?returnUrl=/checkout" class="btn btn-secondary btn-primary-hover">Thanh toán</a>
                                             <br />
 
                                             <br />

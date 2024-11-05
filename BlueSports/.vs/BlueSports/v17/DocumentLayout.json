@@ -3,43 +3,144 @@
   "WorkspaceRootPath": "E:\\UIT\\Git\\Web_app\\BlueSports\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\account\\_changepasswordpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\account\\_changepasswordpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\handleadmin\\modelviews\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\handleadmin\\modelviews\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\handleadmin\\modelviews\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\handleadmin\\modelviews\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\handleadmin\\modelviews\\muahangsuccessvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\handleadmin\\modelviews\\muahangsuccessvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\checkout\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\checkout\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\wwwroot\\js\\main.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\wwwroot\\js\\main.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\QUANG\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\notyf.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\shared\\_footerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\shared\\_footerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\shared\\_layoutaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\shared\\_layoutaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\handleadmin\\modelviews\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\handleadmin\\modelviews\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\handleadmin\\modelviews\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\handleadmin\\modelviews\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\handleadmin\\modelviews\\xemdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\handleadmin\\modelviews\\xemdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\handleadmin\\modelviews\\muahangvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\handleadmin\\modelviews\\muahangvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\models\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\models\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\product\\_productlistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\product\\_productlistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\controllers\\components\\numbercartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,192 +155,103 @@
       "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\shared\\components\\headercart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\shared\\_layoutaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\shared\\_layoutaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\handleadmin\\modelviews\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\handleadmin\\modelviews\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\wwwroot\\js\\main.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\wwwroot\\js\\main.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\wwwroot\\adminassets\\css\\app.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\wwwroot\\adminassets\\css\\app.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\wwwroot\\css\\vendor\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\wwwroot\\css\\vendor\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\wwwroot\\css\\vendor\\vendor.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\wwwroot\\css\\vendor\\vendor.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\wwwroot\\adminassets\\scss\\ui-elements\\_font-awesome.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\wwwroot\\adminassets\\scss\\ui-elements\\_font-awesome.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\shared\\components\\numbercart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\shared\\components\\numbercart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\wwwroot\\adminassets\\vendors\\jquery\\src\\ajax.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\wwwroot\\adminassets\\vendors\\jquery\\src\\ajax.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\wwwroot\\adminassets\\vendors\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\wwwroot\\adminassets\\vendors\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\controllers\\ajaxcontentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\controllers\\ajaxcontentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\search\\searchproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\search\\searchproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\handleadmin\\extension\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\handleadmin\\extension\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\handleadmin\\modelviews\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\handleadmin\\modelviews\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\handleadmin\\modelviews\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\handleadmin\\modelviews\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\models\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\models\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\models\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\models\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\handleadmin\\modelviews\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\handleadmin\\modelviews\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\bluesports.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\bluesports.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\account\\_changepasswordpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\account\\_changepasswordpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\wwwroot\\css\\style_login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\wwwroot\\css\\style_login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\search\\searchproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\search\\searchproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\handleadmin\\helper\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\handleadmin\\helper\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\shared\\components\\numbercart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\shared\\components\\numbercart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\wwwroot\\css\\bootswatch.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\wwwroot\\css\\bootswatch.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\bluesports.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\bluesports.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\QUANG\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\notyf.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\controllers\\ajaxcontentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\controllers\\ajaxcontentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\handleadmin\\extension\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\handleadmin\\extension\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|e:\\uit\\git\\web_app\\bluesports\\bluesports\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2A3B065B-254B-4197-B5EA-5F221CCAEBFF}|BlueSports\\BlueSports.csproj|solutionrelative:bluesports\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -249,7 +261,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 34,
           "Children": [
             {
               "$type": "Bookmark",
@@ -257,7 +269,228 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
+              "Title": "main.min.js",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\js\\main.min.js",
+              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\js\\main.min.js",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\js\\main.min.js",
+              "RelativeToolTip": "BlueSports\\wwwroot\\js\\main.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACnKAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-05T19:22:23.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "app.css",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\app.css",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\app.css",
+              "RelativeToolTip": "BlueSports\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-05T19:22:16.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_FooterPartialView.cshtml",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Shared\\_FooterPartialView.cshtml",
+              "RelativeDocumentMoniker": "BlueSports\\Views\\Shared\\_FooterPartialView.cshtml",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Shared\\_FooterPartialView.cshtml",
+              "RelativeToolTip": "BlueSports\\Views\\Shared\\_FooterPartialView.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T19:14:53.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ajax.js",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\Adminassets\\vendors\\jquery\\src\\ajax.js",
+              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\Adminassets\\vendors\\jquery\\src\\ajax.js",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\Adminassets\\vendors\\jquery\\src\\ajax.js",
+              "RelativeToolTip": "BlueSports\\wwwroot\\Adminassets\\vendors\\jquery\\src\\ajax.js",
+              "ViewState": "AgIAALgBAAAAAAAAAAAAALsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-05T15:51:46.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MuaHangSuccessVM.cs",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\HandleAdmin\\ModelViews\\MuaHangSuccessVM.cs",
+              "RelativeDocumentMoniker": "BlueSports\\HandleAdmin\\ModelViews\\MuaHangSuccessVM.cs",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\HandleAdmin\\ModelViews\\MuaHangSuccessVM.cs",
+              "RelativeToolTip": "BlueSports\\HandleAdmin\\ModelViews\\MuaHangSuccessVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:23:58.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "XemDonHang.cs",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\HandleAdmin\\ModelViews\\XemDonHang.cs",
+              "RelativeDocumentMoniker": "BlueSports\\HandleAdmin\\ModelViews\\XemDonHang.cs",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\HandleAdmin\\ModelViews\\XemDonHang.cs",
+              "RelativeToolTip": "BlueSports\\HandleAdmin\\ModelViews\\XemDonHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:20:29.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Checkout\\Success.cshtml",
+              "RelativeDocumentMoniker": "BlueSports\\Views\\Checkout\\Success.cshtml",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Checkout\\Success.cshtml",
+              "RelativeToolTip": "BlueSports\\Views\\Checkout\\Success.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T13:10:15.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "style_login.css",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\css\\style_login.css",
+              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\css\\style_login.css",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\css\\style_login.css",
+              "RelativeToolTip": "BlueSports\\wwwroot\\css\\style_login.css",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAAALIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-05T08:22:12.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "BlueSports\\Controllers\\CheckoutController.cs",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "BlueSports\\Controllers\\CheckoutController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAqwIYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:09:31.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MuaHangVM.cs",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\HandleAdmin\\ModelViews\\MuaHangVM.cs",
+              "RelativeDocumentMoniker": "BlueSports\\HandleAdmin\\ModelViews\\MuaHangVM.cs",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\HandleAdmin\\ModelViews\\MuaHangVM.cs",
+              "RelativeToolTip": "BlueSports\\HandleAdmin\\ModelViews\\MuaHangVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:07:20.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlueSports\\Views\\Checkout\\Index.cshtml",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "BlueSports\\Views\\Checkout\\Index.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAiwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T08:06:06.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BlueSports\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BlueSports\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T06:52:37.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ProductListPartial.cshtml",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Product\\_ProductListPartial.cshtml",
+              "RelativeDocumentMoniker": "BlueSports\\Views\\Product\\_ProductListPartial.cshtml",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Product\\_ProductListPartial.cshtml",
+              "RelativeToolTip": "BlueSports\\Views\\Product\\_ProductListPartial.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T06:06:43.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\HandleAdmin\\Helper\\Utilities.cs",
+              "RelativeDocumentMoniker": "BlueSports\\HandleAdmin\\Helper\\Utilities.cs",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\HandleAdmin\\Helper\\Utilities.cs",
+              "RelativeToolTip": "BlueSports\\HandleAdmin\\Helper\\Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:58:35.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Bootswatch.css",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\css\\Bootswatch.css",
+              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\css\\Bootswatch.css",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\css\\Bootswatch.css",
+              "RelativeToolTip": "BlueSports\\wwwroot\\css\\Bootswatch.css",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAAABMBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-04T14:10:39.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BlueSports\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAqwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-04T14:07:23.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "main.js",
+              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\js\\main.js",
+              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "BlueSports\\wwwroot\\js\\main.js",
+              "ViewState": "AgIAAOgCAAAAAAAAAADgv/MCAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-04T13:49:05.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
               "Title": "notyf.min.js",
               "DocumentMoniker": "C:\\Users\\QUANG\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\notyf.min.js",
               "ToolTip": "C:\\Users\\QUANG\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\notyf.min.js",
@@ -268,111 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "_font-awesome.scss",
-              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\Adminassets\\scss\\ui-elements\\_font-awesome.scss",
-              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\Adminassets\\scss\\ui-elements\\_font-awesome.scss",
-              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\Adminassets\\scss\\ui-elements\\_font-awesome.scss",
-              "RelativeToolTip": "BlueSports\\wwwroot\\Adminassets\\scss\\ui-elements\\_font-awesome.scss",
-              "ViewState": "AgIAAHcLAAAAAAAAAAAmwI4LAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-11-02T17:28:05.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "vendor.min.css",
-              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\css\\vendor\\vendor.min.css",
-              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\css\\vendor\\vendor.min.css",
-              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\css\\vendor\\vendor.min.css",
-              "RelativeToolTip": "BlueSports\\wwwroot\\css\\vendor\\vendor.min.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACFQwAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-02T17:28:00.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "font-awesome.min.css",
-              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\css\\vendor\\font-awesome.min.css",
-              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\css\\vendor\\font-awesome.min.css",
-              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\css\\vendor\\font-awesome.min.css",
-              "RelativeToolTip": "BlueSports\\wwwroot\\css\\vendor\\font-awesome.min.css",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAASRQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-02T17:27:46.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "app.min.css",
-              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\Adminassets\\css\\app.min.css",
-              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\Adminassets\\css\\app.min.css",
-              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\Adminassets\\css\\app.min.css",
-              "RelativeToolTip": "BlueSports\\wwwroot\\Adminassets\\css\\app.min.css",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAADIAAADokAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-02T17:27:12.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "site.js",
-              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\js\\site.js",
-              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "BlueSports\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAtwH4AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-02T16:39:14.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "main.min.js",
-              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\js\\main.min.js",
-              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\js\\main.min.js",
-              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\js\\main.min.js",
-              "RelativeToolTip": "BlueSports\\wwwroot\\js\\main.min.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABzJAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-02T16:17:30.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "main.js",
-              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\js\\main.js",
-              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\js\\main.js",
-              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\js\\main.js",
-              "RelativeToolTip": "BlueSports\\wwwroot\\js\\main.js",
-              "ViewState": "AgIAANoCAAAAAAAAAAAAAOwCAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-02T16:15:34.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "bootstrap-grid.css.map",
-              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\Adminassets\\vendors\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\Adminassets\\vendors\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\Adminassets\\vendors\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-              "RelativeToolTip": "BlueSports\\wwwroot\\Adminassets\\vendors\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAB6WQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-02T16:14:59.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 9,
               "Title": "ShoppingCart.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Models\\ShoppingCart.cs",
               "RelativeDocumentMoniker": "BlueSports\\Models\\ShoppingCart.cs",
@@ -385,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 59,
               "Title": "AjaxContentController.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Controllers\\AjaxContentController.cs",
               "RelativeDocumentMoniker": "BlueSports\\Controllers\\AjaxContentController.cs",
@@ -398,46 +527,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 41,
               "Title": "List.cshtml",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Product\\List.cshtml",
               "RelativeDocumentMoniker": "BlueSports\\Views\\Product\\List.cshtml",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Product\\List.cshtml",
               "RelativeToolTip": "BlueSports\\Views\\Product\\List.cshtml",
-              "ViewState": "AgIAAIEBAAAAAAAAAAAkwA8AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAALMBAAAAAAAAAAAgwL8BAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-29T16:50:23.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 26,
               "Title": "Details.cshtml",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Product\\Details.cshtml",
               "RelativeDocumentMoniker": "BlueSports\\Views\\Product\\Details.cshtml",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Product\\Details.cshtml",
               "RelativeToolTip": "BlueSports\\Views\\Product\\Details.cshtml",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAAAGwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-29T16:38:52.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "BlueSports\\Views\\Product\\Index.cshtml",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "BlueSports\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAKIBAAAAAAAAAAAAAKMBAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-29T16:12:55.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 60,
               "Title": "SessionExtensions.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\HandleAdmin\\Extension\\SessionExtensions.cs",
               "RelativeDocumentMoniker": "BlueSports\\HandleAdmin\\Extension\\SessionExtensions.cs",
@@ -450,111 +579,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 36,
               "Title": "HeaderCartViewComponent.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Controllers\\Components\\HeaderCartViewComponent.cs",
               "RelativeDocumentMoniker": "BlueSports\\Controllers\\Components\\HeaderCartViewComponent.cs",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Controllers\\Components\\HeaderCartViewComponent.cs",
               "RelativeToolTip": "BlueSports\\Controllers\\Components\\HeaderCartViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T15:40:31.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 35,
               "Title": "NumberCartViewComponent.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Controllers\\Components\\NumberCartViewComponent.cs",
               "RelativeDocumentMoniker": "BlueSports\\Controllers\\Components\\NumberCartViewComponent.cs",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Controllers\\Components\\NumberCartViewComponent.cs",
               "RelativeToolTip": "BlueSports\\Controllers\\Components\\NumberCartViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T15:39:08.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 53,
               "Title": "Default.cshtml",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Shared\\Components\\NumberCart\\Default.cshtml",
               "RelativeDocumentMoniker": "BlueSports\\Views\\Shared\\Components\\NumberCart\\Default.cshtml",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Shared\\Components\\NumberCart\\Default.cshtml",
               "RelativeToolTip": "BlueSports\\Views\\Shared\\Components\\NumberCart\\Default.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-29T15:03:06.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 37,
               "Title": "Default.cshtml",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Shared\\Components\\HeaderCart\\Default.cshtml",
               "RelativeDocumentMoniker": "BlueSports\\Views\\Shared\\Components\\HeaderCart\\Default.cshtml",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Shared\\Components\\HeaderCart\\Default.cshtml",
               "RelativeToolTip": "BlueSports\\Views\\Shared\\Components\\HeaderCart\\Default.cshtml",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAswDsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-29T15:02:46.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 8,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Models\\Product.cs",
               "RelativeDocumentMoniker": "BlueSports\\Models\\Product.cs",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Models\\Product.cs",
               "RelativeToolTip": "BlueSports\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T20:06:24.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 45,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\ShoppingCart\\Index.cshtml",
               "RelativeDocumentMoniker": "BlueSports\\Views\\ShoppingCart\\Index.cshtml",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\ShoppingCart\\Index.cshtml",
               "RelativeToolTip": "BlueSports\\Views\\ShoppingCart\\Index.cshtml",
-              "ViewState": "AgIAAH8AAAAAAAAAAADwv5AAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEUAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-28T19:26:29.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 4,
               "Title": "SearchController.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Controllers\\SearchController.cs",
               "RelativeDocumentMoniker": "BlueSports\\Controllers\\SearchController.cs",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Controllers\\SearchController.cs",
               "RelativeToolTip": "BlueSports\\Controllers\\SearchController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T17:53:46.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 49,
               "Title": "SearchProduct.cshtml",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Search\\SearchProduct.cshtml",
               "RelativeDocumentMoniker": "BlueSports\\Views\\Search\\SearchProduct.cshtml",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Search\\SearchProduct.cshtml",
               "RelativeToolTip": "BlueSports\\Views\\Search\\SearchProduct.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAF0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAnwC8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-28T17:37:12.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "CartItem.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\HandleAdmin\\ModelViews\\CartItem.cs",
               "RelativeDocumentMoniker": "BlueSports\\HandleAdmin\\ModelViews\\CartItem.cs",
@@ -567,59 +696,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 0,
               "Title": "_ChangePasswordPartialView.cshtml",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Account\\_ChangePasswordPartialView.cshtml",
               "RelativeDocumentMoniker": "BlueSports\\Views\\Account\\_ChangePasswordPartialView.cshtml",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Account\\_ChangePasswordPartialView.cshtml",
               "RelativeToolTip": "BlueSports\\Views\\Account\\_ChangePasswordPartialView.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-28T14:37:01.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 1,
               "Title": "ChangePasswordViewModel.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\HandleAdmin\\ModelViews\\ChangePasswordViewModel.cs",
               "RelativeDocumentMoniker": "BlueSports\\HandleAdmin\\ModelViews\\ChangePasswordViewModel.cs",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\HandleAdmin\\ModelViews\\ChangePasswordViewModel.cs",
               "RelativeToolTip": "BlueSports\\HandleAdmin\\ModelViews\\ChangePasswordViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T21:53:57.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 2,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Account\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "BlueSports\\Views\\Account\\Dashboard.cshtml",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Account\\Dashboard.cshtml",
               "RelativeToolTip": "BlueSports\\Views\\Account\\Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEMAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-26T21:45:21.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 25,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\HandleAdmin\\ModelViews\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "BlueSports\\HandleAdmin\\ModelViews\\RegisterViewModel.cs",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\HandleAdmin\\ModelViews\\RegisterViewModel.cs",
               "RelativeToolTip": "BlueSports\\HandleAdmin\\ModelViews\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T09:50:02.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 5,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\HandleAdmin\\ModelViews\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "BlueSports\\HandleAdmin\\ModelViews\\LoginViewModel.cs",
@@ -632,7 +761,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 11,
               "Title": "Register.cshtml",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "BlueSports\\Views\\Account\\Register.cshtml",
@@ -645,20 +774,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "style_login.css",
-              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\css\\style_login.css",
-              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\css\\style_login.css",
-              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\css\\style_login.css",
-              "RelativeToolTip": "BlueSports\\wwwroot\\css\\style_login.css",
-              "ViewState": "AgIAAGAAAAAAAAAAAIBZwIMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-26T09:05:31.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 61,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\appsettings.json",
               "RelativeDocumentMoniker": "BlueSports\\appsettings.json",
@@ -671,7 +787,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 39,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "BlueSports\\Data\\ApplicationDbContext.cs",
@@ -684,20 +800,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 3,
               "Title": "ProductController.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "BlueSports\\Controllers\\ProductController.cs",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Controllers\\ProductController.cs",
               "RelativeToolTip": "BlueSports\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAOMAAAAAAAAAAAAUwBYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAIwL0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T08:03:28.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 57,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "BlueSports\\Controllers\\CategoryController.cs",
@@ -710,20 +826,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 38,
               "Title": "ShoppingCartController.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Controllers\\ShoppingCartController.cs",
               "RelativeDocumentMoniker": "BlueSports\\Controllers\\ShoppingCartController.cs",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Controllers\\ShoppingCartController.cs",
               "RelativeToolTip": "BlueSports\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAwGAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwBIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T08:02:59.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 58,
               "Title": "BrandController.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Controllers\\BrandController.cs",
               "RelativeDocumentMoniker": "BlueSports\\Controllers\\BrandController.cs",
@@ -736,20 +852,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "AccountController.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "BlueSports\\Controllers\\AccountController.cs",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Controllers\\AccountController.cs",
               "RelativeToolTip": "BlueSports\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAwwBgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAWwJkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T08:02:18.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "_LayoutAccount.cshtml",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Shared\\_LayoutAccount.cshtml",
               "RelativeDocumentMoniker": "BlueSports\\Views\\Shared\\_LayoutAccount.cshtml",
@@ -762,20 +878,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 33,
               "Title": "TransactionHistory.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Models\\TransactionHistory.cs",
               "RelativeDocumentMoniker": "BlueSports\\Models\\TransactionHistory.cs",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Models\\TransactionHistory.cs",
               "RelativeToolTip": "BlueSports\\Models\\TransactionHistory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T07:02:06.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "BlueSports\\Models\\OrderDetail.cs",
@@ -788,20 +904,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 7,
               "Title": "Order.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Models\\Order.cs",
               "RelativeDocumentMoniker": "BlueSports\\Models\\Order.cs",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Models\\Order.cs",
               "RelativeToolTip": "BlueSports\\Models\\Order.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T07:01:21.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "Error.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Models\\Error.cs",
               "RelativeDocumentMoniker": "BlueSports\\Models\\Error.cs",
@@ -814,7 +930,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "Category.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Models\\Category.cs",
               "RelativeDocumentMoniker": "BlueSports\\Models\\Category.cs",
@@ -827,7 +943,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 43,
               "Title": "Brand.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Models\\Brand.cs",
               "RelativeDocumentMoniker": "BlueSports\\Models\\Brand.cs",
@@ -840,20 +956,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Models\\User.cs",
               "RelativeDocumentMoniker": "BlueSports\\Models\\User.cs",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Models\\User.cs",
               "RelativeToolTip": "BlueSports\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T06:50:23.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 10,
               "Title": "Login.cshtml",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "BlueSports\\Views\\Account\\Login.cshtml",
@@ -866,46 +982,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "Bootswatch.css",
-              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\css\\Bootswatch.css",
-              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\css\\Bootswatch.css",
-              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\css\\Bootswatch.css",
-              "RelativeToolTip": "BlueSports\\wwwroot\\css\\Bootswatch.css",
-              "ViewState": "AgIAAGoxAAAAAAAAAIBZwIwxAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-24T12:24:18.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "site.css",
-              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\css\\site.css",
-              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "BlueSports\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAANEBAAAAAAAAAAAtwL0BAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-24T12:16:26.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "app.css",
-              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\app.css",
-              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\app.css",
-              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\app.css",
-              "RelativeToolTip": "BlueSports\\wwwroot\\app.css",
-              "ViewState": "AgIAABIAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-24T11:59:08.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 28,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BlueSports\\Controllers\\HomeController.cs",
@@ -918,72 +995,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 27,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BlueSports\\Views\\Home\\Index.cshtml",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BlueSports\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAGQCAAAAAAAAAIBJwHsCAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAF0DAAAAAAAAAAAwwHYDAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-24T08:44:24.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "bootstrap.bundle.js",
-              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-              "RelativeToolTip": "BlueSports\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-              "ViewState": "AgIAACsCAAAAAAAAAAAowD4CAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-24T08:37:49.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "additional-methods.js",
-              "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "RelativeDocumentMoniker": "BlueSports\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "RelativeToolTip": "BlueSports\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "ViewState": "AgIAAN8AAAAAAAAAAAAqwPIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-24T08:37:37.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 62,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "BlueSports\\Views\\Shared\\_Layout.cshtml.css",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeToolTip": "BlueSports\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAABgAAAAAAAAAAIBZwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAIBpwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-10-24T08:37:15.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BlueSports\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BlueSports\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAJAAAAAAAAAAAIBJwJ0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKUAAAAAAAAAAAASwLIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-24T08:21:21.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 51,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "BlueSports\\Views\\_ViewImports.cshtml",
@@ -996,7 +1047,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 52,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "BlueSports\\Views\\_ViewStart.cshtml",
@@ -1009,7 +1060,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 55,
               "Title": "BlueSports.csproj",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\BlueSports.csproj",
               "RelativeDocumentMoniker": "BlueSports\\BlueSports.csproj",
@@ -1017,17 +1068,18 @@
               "RelativeToolTip": "BlueSports\\BlueSports.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-24T08:10:02.559Z"
+              "WhenOpened": "2024-10-24T08:10:02.559Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 47,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Program.cs",
               "RelativeDocumentMoniker": "BlueSports\\Program.cs",
               "ToolTip": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\Program.cs",
               "RelativeToolTip": "BlueSports\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T07:56:56.749Z",
               "EditorCaption": ""

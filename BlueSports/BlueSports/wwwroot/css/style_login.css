@@ -176,7 +176,7 @@ form {
 }
 
     .line-name-signup::before {
-        content: 'ROBOTECH - LOGIN';
+        content: 'BlueSports - LOGIN';
         position: absolute;
         top: 50%;
         left: 50%;

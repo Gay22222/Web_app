@@ -438,7 +438,10 @@ jQuery.extend( {
 			deferred = jQuery.Deferred(),
 			completeDeferred = jQuery.Callbacks( "once memory" ),
 
-			// Status-dependent callbacks
+		// 
+
+
+		-dependent callbacks
 			statusCode = s.statusCode || {},
 
 			// Headers (they are sent all at once)

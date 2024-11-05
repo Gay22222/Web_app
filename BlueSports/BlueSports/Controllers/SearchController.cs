@@ -5,18 +5,19 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 
-namespace RoboTech.Controllers
+namespace BlueSports.Controllers
 {
     public class SearchController : Controller
     {
         private readonly ApplicationDbContext _context;
         public INotyfService _notyfService { get; }
-        public SearchController(ApplicationDbContext context)
+        public SearchController(ApplicationDbContext context, INotyfService notyfService)
         {
             _context = context;
+            _notyfService = notyfService;
         }
-        [ValidateAntiForgeryToken]
-        [HttpPost]
+        
+        [HttpGet]
         public async Task<IActionResult> SearchProduct(string keyword)
         {
             IQueryable<Product> query = _context.Products.Include(p => p.Category);
@@ -31,8 +32,9 @@ namespace RoboTech.Controllers
             {
                 ViewBag.Keyword = "All Products"; // Hiển thị "All Products" nếu không có từ khóa
             }
+            var categories = _context.Categories.ToList();
+            ViewBag.Categories = categories;
 
-            // Sắp xếp và lấy tối đa 18 sản phẩm
             var products = await query
                 .OrderByDescending(p => p.ProductName)
                 .Take(18)

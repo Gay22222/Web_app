@@ -1,4 +1,4 @@
-﻿(function ($) {
+(function ($) {
 	'use strict';
 	/*----------------------------------------*/
 	/*  Check if element exists
@@ -7,19 +7,19 @@
 		return this.length > 0;
 	};
 
-	/*--
-		Custom script to call Background
-		Image & Color from html data attribute
-	-----------------------------------*/
-	$('[data-bg-image]').each(function () {
-		var $this = $(this),
-			$image = $this.data('bg-image');
-		$this.css('background-image', 'url(' + $image + ')');
-	});
-	$('[data-bg-color]').each(function () {
-		var $this = $(this),
-			$color = $this.data('bg-color');
-		$this.css('background-color', $color);
+    /*--
+        Custom script to call Background
+        Image & Color from html data attribute
+    -----------------------------------*/
+    $('[data-bg-image]').each(function () {
+        var $this = $(this),
+            $image = $this.data('bg-image');
+        $this.css('background-image', 'url(' + $image + ')');
+    });
+    $('[data-bg-color]').each(function () {
+        var $this = $(this),
+            $color = $this.data('bg-color');
+        $this.css('background-color', $color);
 	});
 
 	/*----------------------------------------*/
@@ -87,7 +87,7 @@
 	}, function () {
 		(this).swiper.autoplay.start();
 	});
-
+	
 	/* ---Main Slider--- */
 	if ($('.main-slider').elExists()) {
 		var swiper = new Swiper('.main-slider', {
@@ -140,7 +140,7 @@
 	}
 
 	/* --- Product Slider--- */
-	if ($('.product-slider').elExists()) {
+	if($('.product-slider').elExists()){
 		var mySwiper = new Swiper('.product-slider', {
 			slidesPerView: 4,
 			spaceBetween: 30,
@@ -151,23 +151,23 @@
 			},
 			breakpoints: {
 				320: {
-					slidesPerView: 1,
+				  slidesPerView: 1,
 				},
 				576: {
-					slidesPerView: 2,
+				  slidesPerView: 2,
 				},
 				992: {
-					slidesPerView: 3,
+				  slidesPerView: 3,
 				},
 				1501: {
-					slidesPerView: 4,
+				  slidesPerView: 4,
 				}
 			}
 		});
 	}
 
 	/* --- Product List Slider--- */
-	if ($('.product-list-slider').elExists()) {
+	if($('.product-list-slider').elExists()){
 		var mySwiper = new Swiper('.product-list-slider', {
 			slidesPerView: 3,
 			spaceBetween: 30,
@@ -201,7 +201,7 @@
 	}
 
 	/* --- Product List Slider Two--- */
-	if ($('.widgets-list-slider').elExists()) {
+	if($('.widgets-list-slider').elExists()){
 		var mySwiper = new Swiper('.widgets-list-slider', {
 			slidesPerView: 1,
 			spaceBetween: 25,
@@ -234,7 +234,7 @@
 	}
 
 	/* --- Blog Slider--- */
-	if ($('.blog-slider').elExists()) {
+	if($('.blog-slider').elExists()){
 		var mySwiper = new Swiper('.blog-slider', {
 			slidesPerView: 3,
 			spaceBetween: 30,
@@ -245,20 +245,20 @@
 			},
 			breakpoints: {
 				320: {
-					slidesPerView: 1,
+				  slidesPerView: 1,
 				},
 				768: {
-					slidesPerView: 2,
+				  slidesPerView: 2,
 				},
 				1200: {
-					slidesPerView: 3,
+				  slidesPerView: 3,
 				}
 			}
 		});
 	}
 
 	/* --- Single Blog Slider--- */
-	if ($('.single-blog-slider').elExists()) {
+	if($('.single-blog-slider').elExists()){
 		var swiper = new Swiper('.single-blog-slider', {
 			slidesPerView: 1,
 			effect: "fade",
@@ -284,7 +284,7 @@
 	});
 
 	/* --- Testimonial Sliderr--- */
-	if ($('.testimonial-slider').elExists()) {
+	if($('.testimonial-slider').elExists()){
 		var mySwiper = new Swiper('.testimonial-slider', {
 			slidesPerView: 1,
 			spaceBetween: 30,
@@ -301,7 +301,7 @@
 	}
 
 	/* --- Brand Sliderr--- */
-	if ($('.brand-slider').elExists()) {
+	if($('.brand-slider').elExists()){
 		var mySwiper = new Swiper('.brand-slider', {
 			slidesPerView: 5,
 			spaceBetween: 30,
@@ -316,23 +316,23 @@
 			},
 			breakpoints: {
 				320: {
-					slidesPerView: 2,
+				  slidesPerView: 2,
 				},
 				480: {
-					slidesPerView: 3,
+				  slidesPerView: 3,
 				},
 				768: {
-					slidesPerView: 4,
+				  slidesPerView: 4,
 				},
 				992: {
-					slidesPerView: 5,
+				  slidesPerView: 5,
 				}
 			}
 		});
 	}
 
 	/* --- Team Member Sliderr--- */
-	if ($('.team-member-slider').elExists()) {
+	if($('.team-member-slider').elExists()){
 		var mySwiper = new Swiper('.team-member-slider', {
 			slidesPerView: 3,
 			spaceBetween: 30,
@@ -343,20 +343,20 @@
 			},
 			breakpoints: {
 				320: {
-					slidesPerView: 1,
+				  slidesPerView: 1,
 				},
 				576: {
-					slidesPerView: 2,
+				  slidesPerView: 2,
 				},
 				768: {
-					slidesPerView: 3,
+				  slidesPerView: 3,
 				}
 			}
 		});
 	}
 
 	/* ---Product Detail Horizontal Slider--- */
-	if ($('.single-product-slider').elExists()) {
+	if($('.single-product-slider').elExists()){
 		var singleProduct = new Swiper('.single-product-thumbs', {
 			spaceBetween: 30,
 			slidesPerView: 4,
@@ -367,16 +367,16 @@
 			loop: false,
 			breakpoints: {
 				320: {
-					slidesPerView: 3,
-					allowTouchMove: true
+				  slidesPerView: 3,
+				  allowTouchMove: true
 				},
 				768: {
-					slidesPerView: 4,
-					allowTouchMove: true
+				  slidesPerView: 4,
+				  allowTouchMove: true
 				},
 				1200: {
-					slidesPerView: 4,
-					allowTouchMove: false
+				  slidesPerView: 4,
+				  allowTouchMove: false
 				}
 			}
 		});
@@ -407,8 +407,8 @@
 
 	/* ---Scene--- */
 	$('.scene').each(function () {
-		new Parallax($(this)[0]);
-	});
+        new Parallax($(this)[0]);
+    });
 
 	/*----------------------------------------*/
 	/* Toggle Function Active
@@ -531,29 +531,29 @@
 	}
 
 	/*------------------------------------
-		Magnific Popup
-		------------------------------------- */
-	if ($('.popup-vimeo').elExists()) {
-		$('.popup-vimeo').magnificPopup({
-			type: 'iframe',
-			disableOn: function () {
-				if ($(window).width() < 600) {
-					return false;
+	    Magnific Popup
+	    ------------------------------------- */
+		if ($('.popup-vimeo').elExists()){
+			$('.popup-vimeo').magnificPopup({
+				type: 'iframe',
+				disableOn: function () {
+					if ($(window).width() < 600) {
+						return false;
+					}
+					return true;
 				}
-				return true;
-			}
-		});
-	}
-	if ($('.gallery-popup').elExists()) {
-		$('.gallery-popup').magnificPopup({
-			type: 'image',
-			gallery: {
-				enabled: true
-			}
-		});
-	}
-
-
+			});
+		}
+		if ($('.gallery-popup').elExists()){
+			$('.gallery-popup').magnificPopup({
+				type: 'image',
+				gallery: {
+					enabled: true
+				}
+			});
+		}
+		
+	
 	/*------------------------------------
 	Toolbar Button
 	------------------------------------- */
@@ -660,9 +660,6 @@
 	/*----------------------------------------*/
 	/*  QTY Button
 /*----------------------------------------*/
-	$('.cart-plus-minus').append(
-		'<div class="dec qtybutton"><i class="fa fa-minus"></i></div><div class="inc qtybutton"><i class="fa fa-plus"></i></div>'
-	);
 	$('.qtybutton').on('click', function () {
 		var $button = $(this);
 		var oldValue = $button.parent().find('input').val();
@@ -685,9 +682,9 @@
 	if ($('.nice-select').elExists()) {
 		$('.nice-select').niceSelect();
 	}
-
+	
 	/*--------------------------------
-	Ajax Contact Form
+    Ajax Contact Form
 -------------------------------- */
 	$(function () {
 		// Get the form.
@@ -702,39 +699,39 @@
 			var formData = $(form).serialize();
 			// Submit the form using AJAX.
 			$.ajax({
-				type: 'POST',
-				url: $(form).attr('action'),
-				data: formData
-			})
-				.done(function (response) {
-					// Make sure that the formMessages div has the 'success' class.
-					$(formMessages).removeClass('error');
-					$(formMessages).addClass('success');
-
-					// Set the message text.
-					$(formMessages).text(response);
-
-					// Clear the form.
-					$('#contact-form input,#contact-form textarea').val('');
+					type: 'POST',
+					url: $(form).attr('action'),
+					data: formData
 				})
-				.fail(function (data) {
-					// Make sure that the formMessages div has the 'error' class.
-					$(formMessages).removeClass('success');
-					$(formMessages).addClass('error');
+			.done(function (response) {
+				// Make sure that the formMessages div has the 'success' class.
+				$(formMessages).removeClass('error');
+				$(formMessages).addClass('success');
 
-					// Set the message text.
-					if (data.responseText !== '') {
-						$(formMessages).text(data.responseText);
-					} else {
-						$(formMessages).text('Oops! An error occured and your message could not be sent.');
-					}
-				});
+				// Set the message text.
+				$(formMessages).text(response);
+
+				// Clear the form.
+				$('#contact-form input,#contact-form textarea').val('');
+			})
+			.fail(function (data) {
+				// Make sure that the formMessages div has the 'error' class.
+				$(formMessages).removeClass('success');
+				$(formMessages).addClass('error');
+
+				// Set the message text.
+				if (data.responseText !== '') {
+					$(formMessages).text(data.responseText);
+				} else {
+					$(formMessages).text('Oops! An error occured and your message could not be sent.');
+				}
+			});
 		});
 
 	});
-
+	
 	/*--------------------------------
-	Scroll To Top
+    Scroll To Top
 -------------------------------- */
 	function scrollToTop() {
 		var $scrollUp = $('.scroll-to-top'),

@@ -27,11 +27,11 @@
                         </div>
                     </div>
                     <div class="img-select">
-                        <div class="img-item">
+                        @* <div class="img-item">
                             <a href="#" data-id="1">
                                 <img src="@Model.ImageURL" alt="@Model.ProductName" />
                             </a>
-                        </div>
+                        </div> *@
                         @* <div class="img-item">
                             <a href="#" data-id="2">
                                 <img src="~/assets/img/pc2.jpg" alt="Additional Image 1" />
@@ -64,22 +64,22 @@
                         <p class="new-price">Price: <span>@Model.Price.ToString("#,##0") VNĐ</span></p>
                     </div>
                     <div class="product-detail">
-                        <h2>About this item: </h2>
+                        <h2>Thông tin sản phẩm: </h2>
                         <p>@Model.Description</p>
                         <ul>
-                            <li>Available: <span>@Model.StockQuantity in stock</span></li>
+                            <li>Số lượng: <span>@Model.StockQuantity in stock</span></li>
                             <li>Danh mục: <span><a href="/danhmuc/@Model.Category.CategoryID">@Model.Category.CategoryName</a></span></li>
-                            <li>Warranty: <span>1 year</span></li>
-                            <li>Shipping Area: <span>All over the world</span></li>
-                            <li>Shipping Fee: <span>Free</span></li>
-                            <li>View: <span>1324</span></li>
+                            <li>Bảo hành: <span>1 năm</span></li>
+                            <li>Khu vực giao hàng: <span>Việt Nam</span></li>
+                            <li>Phí vận chuyển: <span>Miễn phí</span></li>
+                            <li>Lượt xem: <span>80</span></li>
                         </ul>
                     </div>
                     <div class="purchase-info">
                         <input id="txtsoLuong" name="txtsoLuong" type="number" min="1" value="1">
                         <input hidden asp-for="ProductID" />
                         <button type="button" class="btn add-to-cart ">
-                            Add to Cart <i class="fas fa-shopping-cart"></i>
+                            Thêm vào giỏ <i class="fas fa-shopping-cart"></i>
                         </button>
                     </div>
                 </div>

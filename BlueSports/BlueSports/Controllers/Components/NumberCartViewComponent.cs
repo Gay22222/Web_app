@@ -2,7 +2,7 @@
 using BlueSports.HandleAdmin.ModelViews;
 using Microsoft.AspNetCore.Mvc;
 
-namespace RoboTech.Controllers.Components
+namespace BlueSports.Controllers.Components
 {
     public class NumberCartViewComponent : ViewComponent
     {

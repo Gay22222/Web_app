@@ -1,9 +1,10 @@
 ﻿@using PagedList.Core.Mvc
+@using BlueSports.HandleAdmin.Helper
 @model PagedList.Core.IPagedList<BlueSports.Models.Product>
 @{
     ViewData["TiTle"] = "Shop - " + ViewBag.CurrentPage;
     Layout = "~/Views/Shared/_Layout.cshtml";
-    int PageCurrent = ViewBag.CurrentPage;
+    int PageCurrent = ViewBag.CurrentPage ?? 1;
     int PageNext = PageCurrent + 1;
 }
 
@@ -13,54 +14,44 @@
         <div class="title text-center font-weight-bold" style="font-size: 50px;">
             <h2>Danh sách sản phẩm</h2>
         </div>
-        @* <div class="filter">
-            <label for="sort-form">
-                Sort by:&nbsp;&nbsp;
-            </label>
-            <select id="txtCatID" name="txtCatID" asp-items="ViewBag.DanhMuc">
-                <option selected>Select a category</option>
-                               <option value="1">Trending...</option>
-                <option value="2">Price: Low to high..</option>
-                <option value="3">Price: High to low..</option>
+        <div class="filter">
+            <label for="sort-form">Sắp xếp theo:&nbsp;&nbsp;</label>
+            <select id="sortOption" name="sortOption">
+                <option selected></option>
+                @*   <option value="1">Bán chạy</option> *@
+                <option value="2">Tăng dần.</option>
+                <option value="3">Giảm dần</option>
             </select>
-        </div> *@
+        </div>
+
         <div class="divider">
 
             <div class="row">
                 <div class="side-nav col-lg-3">
                     <div class="head" style="border-bottom: 10px">
-                        <h5><i class="fa-solid fa-bars" style="font-size: 20px;"></i>&nbsp;&nbsp;Category</h5>
+                        <h5><i class="fa-solid fa-bars" style="font-size: 20px;"></i>&nbsp;&nbsp;Danh mục</h5>
                     </div>
                     <div class="nav2">
                         <ul class="menu">
-                            <li class="dropdown">
-                                <a href="#"> PC&nbsp&nbsp;&nbsp;<i class="fa-solid fa-chevron-right" style="font-size: 10px"></i></a>
-                                <ul class="dropdown_menu dropdown_menu--animated dropdown_menu-6">
-                                    <li class="dropdown_item-1"><a href="#">Gaming</a></li>
-                                    <li class="dropdown_item-2"><a href="#">Office</a></li>
-                                </ul>
-                            </li>
-                            <li class="dropdown">
-                                <a href="#">Laptop&nbsp;&nbsp;<i class="fa-solid fa-chevron-right" style="font-size: 10px"></i></a>
-                                <ul class="dropdown_menu dropdown_menu--animated dropdown_menu-6">
-                                    <li class="dropdown_item-1"><a href="#">Gaming</a></li>
-                                    <li class="dropdown_item-2"><a href="#">Office</a></li>
-                                </ul>
-                            </li>
-                            <li class="dropdown"> <a href="#">Screen</a></li>
-                            <li class="dropdown"> <a href="#">Keyboard</a></li>
-                            <li class="dropdown"> <a href="#">Mouse</a></li>
-                            <li class="dropdown mb-5"> <a href="#">Headphone</a></li>
+                            @foreach (var cat in ViewBag.Categories)
+                            {
+                                <li class="dropdown">
+                                    <a href="javascript:void(0);" class="category-link" data-category-id="@cat.CategoryID">
+                                        @cat.CategoryName
+                                    </a>
+                                </li>
+                            }
                         </ul>
+                        <input type="hidden" id="categoryId" value="0">
                     </div>
                 </div>
                 <div class="col-lg-9">
-                    <div class="row">
+                    <div class="row" id="product-list">
                         @if (Model != null && Model.Count() > 0)
                         {
                             @foreach (var item in Model)
                             {
-                                string url = $"/{item.ProductName.Replace(" ", "-")}-{item.ProductID}";
+                                string url = $"/{Utilities.SEOUrl(item.ProductName)}-{item.ProductID}";
                                 <div class="col-md-6 col-lg-4 mb-4">
                                     <div class="card h-100 text-center">
                                         <a href="@url">
@@ -72,11 +63,10 @@
                                             </div>
                                             <h5 class="mb-0 text-primary"><a href="@url">@item.ProductName</a></h5>
 
-                                            <!-- Phần giá tiền nằm dưới tên sản phẩm -->
                                             <h5 class="text-dark mb-3 mt-2">@item.Price.ToString("#,##0") VNĐ</h5>
 
                                             <div class="d-flex justify-content-between mb-3">
-                                                <p class="text-muted mb-0">Available: <span class="fw-bold">@item.StockQuantity</span></p>
+                                                <p class="text-muted mb-0">Số lượng: <span class="fw-bold">@item.StockQuantity</span></p>
                                                 <div class="ms-auto text-warning">
                                                     <i class="fa fa-star"></i>
                                                     <i class="fa fa-star"></i>
@@ -86,9 +76,8 @@
                                                 </div>
                                             </div>
 
-                                            <!-- Nút BUY NOW với lớp 'mt-auto' để đưa nút xuống đáy -->
                                             <a href="@url" class="btn btn-primary w-100 mt-auto">
-                                                <i class="fa-solid fa-cart-plus">&nbsp;BUY NOW</i>
+                                                <i class="fa-solid fa-cart-plus">&nbsp;Mua Ngay</i>
                                             </a>
                                         </div>
                                     </div>
@@ -120,8 +109,8 @@
                                             </div>
                                         </div>
                                         <button type="button" class="btn bg-cart w-100 mt-2">
-                                            <i class="fa-solid fa-cart-plus"></i>&nbsp;Add
-                                            to cart
+                                            <i class="fa-solid fa-cart-plus"></i>&nbsp;Thêm vào giỏ
+      
                                         </button>
                                     </div>
                                 </div>
@@ -151,8 +140,7 @@
                                             </div>
                                         </div>
                                         <button type="button" class="btn bg-cart w-100 mt-2">
-                                            <i class="fa-solid fa-cart-plus"></i>&nbsp;Add
-                                            to cart
+                                            <i class="fa-solid fa-cart-plus"></i>Thêm vào giỏ
                                         </button>
                                     </div>
                                 </div>
@@ -182,8 +170,7 @@
                                             </div>
                                         </div>
                                         <button type="button" class="btn bg-cart w-100 mt-2">
-                                            <i class="fa-solid fa-cart-plus"></i>&nbsp;Add
-                                            to cart
+                                            <i class="fa-solid fa-cart-plus"></i>Thêm vào giỏ
                                         </button>
                                     </div>
                                 </div>
@@ -213,8 +200,7 @@
                                             </div>
                                         </div>
                                         <button type="button" class="btn bg-cart w-100 mt-2">
-                                            <i class="fa-solid fa-cart-plus"></i>&nbsp;Add
-                                            to cart
+                                            <i class="fa-solid fa-cart-plus"></i>Thêm vào giỏ
                                         </button>
                                     </div>
                                 </div>
@@ -244,8 +230,7 @@
                                             </div>
                                         </div>
                                         <button type="button" class="btn bg-cart w-100 mt-2">
-                                            <i class="fa-solid fa-cart-plus"></i>&nbsp;Add
-                                            to cart
+                                            <i class="fa-solid fa-cart-plus"></i>Thêm vào giỏ
                                         </button>
                                     </div>
                                 </div>
@@ -275,8 +260,7 @@
                                             </div>
                                         </div>
                                         <button type="button" class="btn bg-cart w-100 mt-2">
-                                            <i class="fa-solid fa-cart-plus"></i>&nbsp;Add
-                                            to cart
+                                            <i class="fa-solid fa-cart-plus"></i>Thêm vào giỏ
                                         </button>
                                     </div>
                                 </div>
@@ -306,8 +290,7 @@
                                             </div>
                                         </div>
                                         <button type="button" class="btn bg-cart w-100 mt-2">
-                                            <i class="fa-solid fa-cart-plus"></i>&nbsp;Add
-                                            to cart
+                                            <i class="fa-solid fa-cart-plus"></i>Thêm vào giỏ
                                         </button>
                                     </div>
                                 </div>
@@ -337,8 +320,7 @@
                                             </div>
                                         </div>
                                         <button type="button" class="btn bg-cart w-100 mt-2">
-                                            <i class="fa-solid fa-cart-plus"></i>&nbsp;Add
-                                            to cart
+                                            <i class="fa-solid fa-cart-plus"></i>Thêm vào giỏ
                                         </button>
                                     </div>
                                 </div>
@@ -368,8 +350,7 @@
                                             </div>
                                         </div>
                                         <button type="button" class="btn bg-cart w-100 mt-2">
-                                            <i class="fa-solid fa-cart-plus"></i>&nbsp;Add
-                                            to cart
+                                            <i class="fa-solid fa-cart-plus"></i>Thêm vào giỏ
                                         </button>
                                     </div>
                                 </div>
@@ -400,31 +381,27 @@
 @section Scripts {
     <script>
         $(document).ready(function () {
-            jQuery("#txtCatID").change(function () {
-                var alias = jQuery(this).children(":selected").attr("value");
-                catID = parseFloat(catID);
-                $('#txtCatID option')
-                    .removeAttr('selected');
-                $("#txtCatID > [value=" + alias + "]").attr("selected", "true");
-                $.ajax({
-                    url: '/Product/Filtter',
-                    datatype: "json",
-                    type: "GET",
-                    data: {
-                        alias: alias
-                    },
-                    async: true,
-                    success: function (results) {
-                        if (results.status == "success") {
-                            
-                            location.href = results.redirectUrl;
-                        }
-                    },
-                    error: function (xhr) {
-                        alert('error');
-                    }
-                });
+            // Lắng nghe sự kiện thay đổi trên dropdown Sắp xếp
+            $("#sortOption").change(function () {
+                console.log("Sort selection changed");
+                applyFilterAndSort();
             });
+
+            // Lắng nghe sự kiện click trên tất cả các liên kết danh mục
+            $(".category-link").click(function () {
+                // Lấy CategoryID từ data-attribute
+                var categoryId = $(this).data("category-id");
+                console.log("Category selected:", categoryId);
+                $("#categoryId").val(categoryId);  // Cập nhật giá trị cho categoryId
+                applyFilterAndSort();
+            });
+
+            // Khi người dùng chọn thương hiệu
+            $("#brandId").change(function () {
+                applyFilterAndSort();
+            });
+
+            // Lắng nghe sự kiện nhập từ khóa tìm kiếm
             $("#keyword").keyup(function () {
                 var strkeyword = $('#keyword').val();
                 $.ajax({
@@ -438,11 +415,42 @@
                         $("#records_table").html(results);
                     },
                     error: function (xhr) {
-                        alert('error');
+                        alert('Error in search');
                     }
                 });
             });
         });
+
+        // Hàm áp dụng lọc và sắp xếp
+        function applyFilterAndSort() {
+            var categoryId = $("#categoryId").val() || 0;  // Lấy giá trị của categoryId
+            var brandId = $("#brandId").val() || 0;        // Lấy giá trị của brandId
+            var sortOption = $("#sortOption").val() || 0;  // Lấy giá trị của sortOption
+
+            var url = '/Product/FilterAndSort';
+            console.log("Applying Filter and Sort with values:");
+            console.log("Category ID:", categoryId);
+            console.log("Brand ID:", brandId);
+            console.log("Sort Option:", sortOption);
+
+            // Gửi yêu cầu Ajax
+            $.ajax({
+                url: url,
+                type: 'GET',
+                data: {
+                    categoryId: categoryId,
+                    brandId: brandId,
+                    sortOption: sortOption
+                },
+                success: function (results) {
+                    console.log("AJAX request successful");
+                    $("#product-list").html(results); // Cập nhật danh sách sản phẩm
+                },
+                error: function () {
+                    alert('Error in filtering and sorting');
+                }
+            });
+        }
     </script>
 }
 @*@section Scripts{

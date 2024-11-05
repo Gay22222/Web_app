@@ -1,4 +1,4 @@
-/* Google Fonts - Poppins */
+﻿/* Google Fonts - Poppins */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
 
 * {
@@ -149,13 +149,12 @@ ul {
     }
 
 .footer {
-    height: 310px;
     background-color: #24262b;
-    padding: 30px 0 0px;
-    position: relative;
-    bottom: 0;
+    padding: 30px 0;
     width: 100%;
+    /* Xóa thuộc tính `position: relative` và `bottom: 0` nếu có */
 }
+
 
 .footer-col {
     width: 25%;
@@ -223,18 +222,28 @@ ul {
 
 .copyright {
     width: 100%;
-    margin-top: 20px;
-    background-color: #33343665;
     padding: 10px 0;
+    background-color: #33343665;
     text-align: center;
     color: grey;
     font-size: 17px;
+    margin-top: 20px;
 }
 /*body css*/
 body {
     display: flex;
     flex-direction: column;
     line-height: 1.5;
+}
+html, body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Đảm bảo chiều cao tối thiểu của trang */
+    margin: 0; /* Loại bỏ khoảng cách mặc định */
+    padding: 0;
+}
+main, .content {
+    flex: 1; /* Đảm bảo nội dung chính chiếm không gian còn lại */
 }
 
 /*Navi css*/
@@ -626,12 +635,12 @@ img {
     }
 
         .purchase-info .btn:first-of-type {
-            background: #289497;
+            background: #2182f0b6;
         }
 
 
         .purchase-info .btn:hover {
-            background: #175B6a
+            background: #2182f0b6
         }
 
 

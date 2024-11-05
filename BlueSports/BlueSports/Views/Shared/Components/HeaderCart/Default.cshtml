@@ -5,7 +5,7 @@
     <div class="harmic-offcanvas-body">
         <div class="minicart-content">
             <div class="minicart-heading">
-                <h4 class="mb-0">Your Shopping Cart <a href="#" class="button-close"><i class="fa-solid fa-square-xmark"></i></a></h4>
+                <h4 class="mb-0">Giỏ hàng của bạn <a href="#" class="button-close"><i class="fa-solid fa-square-xmark"></i></a></h4>
                 <hr>
             </div>
             <ul class="minicart-list">
@@ -32,10 +32,10 @@
             <span class="ammount"><strong>@Model.Sum(x => x.TotalMoney).ToString("#,##0") VNĐ</strong></span>
         </div>
         <div class="group-btn_wrap d-grid gap-2">
-            <a href="cart.html" class="btn btn-secondary btn-primary-hover">View cart</a>
+            <a href="cart.html" class="btn btn-secondary btn-primary-hover">Xem giỏ hàng</a>
             @if (User.Identity.IsAuthenticated)
             {
-                <a href="/checkout" class="btn btn-secondary btn-primary-hover">Checkout Now</a>
+                <a href="/checkout" class="btn btn-secondary btn-primary-hover">Thanh toán </a>
             }
             else
             {

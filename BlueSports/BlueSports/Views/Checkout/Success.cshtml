@@ -1,0 +1,53 @@
+﻿@model BlueSports.HandleAdmin.ModelViews.MuaHangSuccessVM
+@{
+    ViewData["Title"] = "Mua hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Styles {
+    <style type="text/css">
+        .nice-select .list {
+            border-radius: 0px;
+            overflow-y: auto;
+            overflow: hidden;
+            max-height: 200px;
+            overflow-y: scroll;
+        }
+
+        .nice-select .option:hover, .nice-select .option.focus, .nice-select .option.selected.focus {
+            color: red;
+            background: none;
+        }
+    </style>
+}
+
+<main class="main-content">
+    <div class="checkout-area section-space-y-axis-100">
+        <div class="container">
+            <div class="row">
+                <div style="text-align:center;">
+                    <div class="checkbox-form">
+                        <h3 style="color:red">Đặt hàng thành công</h3>
+                        <p>Mã đơn hàng: #@Model.DonHangID</p>
+                        <p>Cảm ơn bạn đã đặt hàng</p>
+                        <br />
+                        <h3>Thông tin đơn hàng</h3>
+                        <p>Thông tin vận chuyển</p>
+                        <p>Người nhận: @Model.FullName</p>
+                        <p>SĐT: @Model.Phone</p>
+                        <p>Địa chỉ: @Model.Address</p>
+                        <a href="/ProductList" style="color:red;font-weight:bold;">
+                            <i class="fas fa-long-arrow-alt-left me-4"></i>
+                            Tiếp tục mua hàng
+                        </a>
+                        <br />
+                        Để xem chi tiết đơn hàng, nhấn <a asp-controller="Account" asp-action="Dashboard"><strong>Tài khoản.</strong></a> Liên hệ 091212212 để được hỗ trợ
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <img src="" />
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

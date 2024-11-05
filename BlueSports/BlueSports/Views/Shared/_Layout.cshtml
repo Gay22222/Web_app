@@ -45,16 +45,16 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
 
-                        <form asp-controller="Search" asp-action="SearchProduct" class="d-flex offset-1" method="post">
+                        <form asp-controller="Search" asp-action="SearchProduct" class="d-flex offset-1" method="get">
 
                             @Html.AntiForgeryToken()
-                            <input class="form-control search-bar" name="keyword" type="text" placeholder="Search any products...">
+                            <input class="form-control search-bar" name="keyword" type="text" placeholder="Tìm kiếm">
                             <button class="btn search-btn" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
 
 
                         </form>
                         @*<form class="d-flex offset-1">
-                        <input class="form-control search-bar" type="text" placeholder="Search any products...">
+                        <input class="form-control search-bar" type="text" placeholder="Tìm kiếm">
                         <button class="btn search-btn" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
                         </form>*@
                         <li class="offset-1" style="margin-top: 7px">

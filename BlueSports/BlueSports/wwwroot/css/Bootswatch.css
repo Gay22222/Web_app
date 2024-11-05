@@ -261,7 +261,7 @@ sup {
 
 a {
     color: var(--bs-link-color);
-    text-decoration: underline;
+    text-decoration: none;
 }
 
     a:hover {
@@ -3321,10 +3321,10 @@ textarea.form-control-lg {
 
 .btn-secondary {
     --bs-btn-color: #fff;
-    --bs-btn-bg: #adb5bd;
-    --bs-btn-border-color: #adb5bd;
+    --bs-btn-bg: #2182f0b6;
+    --bs-btn-border-color: #2182f0b6;
     --bs-btn-hover-color: #fff;
-    --bs-btn-hover-bg: #939aa1;
+    --bs-btn-hover-bg: #4582ec;
     --bs-btn-hover-border-color: #8a9197;
     --bs-btn-focus-shadow-rgb: 185, 192, 199;
     --bs-btn-active-color: #fff;

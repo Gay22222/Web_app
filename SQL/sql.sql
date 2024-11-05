@@ -130,6 +130,43 @@ CREATE INDEX idx_transactionhistory_orderid_date ON TransactionHistory (OrderID,
 CREATE INDEX idx_shoppingcart_user_product ON ShoppingCart (UserID, ProductID);
 
 
+-- Thêm Brand vào cơ sở dữ liệu
+INSERT INTO Brands (BrandName, Description) VALUES
+(N'Akko', ''),
+(N'Corsair', ''),
+(N'DareU', ''),
+(N'Fuhlen', ''),
+(N'Logitech', ''),
+(N'Machenike', ''),
+(N'Rapoo', ''),
+(N'Razer', ''),
+(N'Redragon', ''),
+(N'SPARTAN', ''),
+(N'Xiberia', ''),
+(N'Asus', ''),
+(N'Attack Shark', ''),
+(N'HyperX', ''),
+(N'Royal Kludge', ''),
+(N'Zidli', '');
+(N'MSI', '');
+--Thêm Categories vào cơ sở dữ liệu
+INSERT INTO Categories (CategoryName, Description) VALUES
+(N'Laptop', ''),
+(N'PC', ''),
+(N'Màn Hình', ''),
+(N'Bàn Phím', ''),
+(N'Chuột', ''),
+(N'Tai Nghe', '');
+
+
+
+
+
+
+
+------Phan duoi day la nhap------------
+---------------------------------
+
 
 INSERT INTO Products (ProductID, ProductName, BrandID, CategoryID, Price, StockQuantity, Description, ImageURL, DateAdded, LastUpdated)
 VALUES ('V.RX6600.8G.GG.EG.3F', 'Card màn hình VGA GIGABYTE Radeon RX 6600 EAGLE 8G', 1, 1, 5350000, 10, 
@@ -144,9 +181,8 @@ delete from Users where UserName = 'admin'
 select *from Users
 
 delete  from Products where ProductID ='4'
-select * from Products
-select *from Brands
-select *from Categories
+
+
 
 
 -- Bật chế độ IDENTITY_INSERT cho bảng Products
@@ -161,7 +197,7 @@ VALUES (3, 'V.RX6600.8G.GG.E.3F', '1', '1', 5350000, 10, 'Card màn hình GIGABY
 SET IDENTITY_INSERT Products OFF;
 
 
-delete from Users where UserName = 'clone'
+
 
 select * from Orders
 
@@ -170,3 +206,36 @@ select* from ShoppingCart
 
 update Products
 set ProductName  = 'SSD Kingston 500G NV2' where ProductID = 12
+
+
+INSERT INTO Products (ProductID, ProductName, BrandID, CategoryID, Price, StockQuantity, Description, ImageURL, DateAdded, LastUpdated)
+VALUES ('V.RX6600.8G.GG.EG.3F', 'Card màn hình VGA GIGABYTE Radeon RX 6600 EAGLE 8G', 1, 1, 5350000, 10, 
+'Card màn hình GIGABYTE Radeon RX 6600 EAGLE 8GB với tốc độ Boost lên đến 2491 MHz, bộ nhớ 8GB GDDR6, giao tiếp PCI-E 4.0 x 8.', 
+'https://product.hstatic.net/200000420363/product/_2023_-khung-sp-_1__e4dabe2bd54c49d39705d76f02e03c54_master.jpg', '2024-10-21', '2024-10-21');
+
+update Products
+set Description  = N'Card đồ họa mạnh mẽ, xử lý mượt mà các tựa game hiện đại ở độ phân giải cao'  where ProductID = 5
+select * from Products
+Card màn hình GIGABYTE Radeon RX 6600 EAGLE 8G (GV-R66EAGLE-8GD)
+
+
+INSERT INTO Products (ProductName, BrandID, CategoryID, Price, StockQuantity, Description, ImageURL, DateAdded, LastUpdated)
+VALUES ('V.RX6600.8G.GG.EG.3F', 'Card màn hình VGA GIGABYTE Radeon RX 6600 EAGLE 8G', 1, 1, 5350000, 10, 
+'Card màn hình GIGABYTE Radeon RX 6600 EAGLE 8GB với tốc độ Boost lên đến 2491 MHz, bộ nhớ 8GB GDDR6, giao tiếp PCI-E 4.0 x 8.', 
+'https://product.hstatic.net/200000420363/product/_2023_-khung-sp-_1__e4dabe2bd54c49d39705d76f02e03c54_master.jpg', '2024-10-21', '2024-10-21');
+PC Gaming STAR Zero To Hero | Intel I5 14400F/ RTX 4060/ B760/ RAM 32GB/ SSD 500GB
+
+
+select *from Brands
+select *from Categories
+
+
+select *from Users
+
+
+select *from Brands
+
+
+update Categories
+set Description  = N''  where CategoryID = 2
+select * from Products
