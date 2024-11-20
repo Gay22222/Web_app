@@ -203,7 +203,7 @@ select * from Orders
 
 select* from ShoppingCart
 
-
+select * from pro
 update Products
 set ProductName  = 'SSD Kingston 500G NV2' where ProductID = 12
 

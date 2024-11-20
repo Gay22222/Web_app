@@ -1,3 +1,0 @@
-Task: Xây dựng phần back-end sử dụng ASP.NET Core | Open-source web framework for .NET  để xử lý các yêu cầu từ người dùng, quản lý phiên đăng nhập, giỏ hàng và giao dịch đơn hàng.
-Link: https://dotnet.microsoft.com/fr-fr/apps/aspnet
-Kết quả: API back-end xử lý đăng ký, đăng nhập, quản lý sản phẩm, và giao dịch mua sắm.

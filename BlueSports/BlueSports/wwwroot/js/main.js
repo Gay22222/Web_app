@@ -1,4 +1,4 @@
-(function ($) {
+﻿(function ($) {
 	'use strict';
 	/*----------------------------------------*/
 	/*  Check if element exists
@@ -763,3 +763,26 @@
 	scrollToTop();
 
 })(jQuery);
+
+
+
+	/*--------------------------------
+            Image Handler
+-------------------------------- */
+
+
+
+// Xử lý khi người dùng chọn ảnh
+function handleImageUpload(event) {
+	const file = event.target.files[0];
+	if (file) {
+		console.log("Image selected: ", file.name);
+		// Thực hiện gửi ảnh lên server hoặc xử lý tùy ý
+	}
+}
+
+// Mở camera để chụp ảnh
+function openCamera() {
+	alert("Tính năng chụp ảnh chưa được triển khai!");
+	// Hoặc mở modal, tích hợp camera
+}

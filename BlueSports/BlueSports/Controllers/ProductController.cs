@@ -1,9 +1,12 @@
-﻿using BlueSports.Data;
+﻿using AspNetCoreHero.ToastNotification.Abstractions;
+using BlueSports.Data;
 using BlueSports.Models;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using PagedList.Core;
+using Microsoft.AspNetCore.Hosting;
 
 namespace BlueSports.Controllers
 {
@@ -11,11 +14,13 @@ namespace BlueSports.Controllers
     {
         // Danh sách sản phẩm mẫu
         private readonly ApplicationDbContext _context;
-
-        public ProductController(ApplicationDbContext context)
+        private readonly INotyfService _notyfService;
+        private readonly IWebHostEnvironment _webHostEnvironment;
+        public ProductController(ApplicationDbContext context, INotyfService notyfService, IWebHostEnvironment webHostEnvironment)
         {
             _context = context;
-
+            _notyfService = notyfService;
+            _webHostEnvironment = webHostEnvironment;
         }
 
 
@@ -190,6 +195,98 @@ namespace BlueSports.Controllers
                 return Json(new { status = "error", message = "Error in filtering and sorting" });
             }
         }
+
+
+        // Tạo thư mục tạm 
+
+        private string CreateTempFolder()
+        {
+            var tempFolder = Path.Combine(_webHostEnvironment.WebRootPath, "temp");
+            if (!Directory.Exists(tempFolder))
+            {
+                Directory.CreateDirectory(tempFolder); // Tạo thư mục nếu chưa tồn tại
+            }
+            return tempFolder;
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> UploadImage(IFormFile imageFile)
+        {
+            if (imageFile == null || imageFile.Length == 0)
+            {
+                _notyfService.Success("Vui lòng chọn một file hợp lệ!");
+                return RedirectToAction("Index"); // Chuyển hướng về trang chính
+            }
+
+            // Lấy đường dẫn thư mục tạm
+            var tempFolder = CreateTempFolder();
+
+            // Tạo tên file duy nhất
+            var uniqueFileName = $"{Guid.NewGuid()}_{imageFile.FileName}";
+            var filePath = Path.Combine(tempFolder, uniqueFileName);
+
+            // Lưu file lên thư mục tạm
+            using (var fileStream = new FileStream(filePath, FileMode.Create))
+            {
+                await imageFile.CopyToAsync(fileStream);
+            }
+
+            _notyfService.Success("File đã được tải lên thư mục tạm!");
+            TempData["TempFilePath"] = filePath; // Lưu lại đường dẫn tạm để xử lý sau
+            return RedirectToAction("Index");
+        }
+
+
+        // Xóa thư mục tạm
+        private void DeleteTempFile(string filePath)
+        {
+            if (System.IO.File.Exists(filePath))
+            {
+                System.IO.File.Delete(filePath);
+            }
+        }
+
+        // Xử lí hình ảnh
+
+
+        [HttpPost]
+        public IActionResult ProcessTempImage()
+        {
+            var tempFilePath = TempData["TempFilePath"]?.ToString();
+            if (string.IsNullOrEmpty(tempFilePath) || !System.IO.File.Exists(tempFilePath))
+            {
+                TempData["Error"] = "Không tìm thấy file tạm để xử lý.";
+                return RedirectToAction("Index");
+            }
+
+            try
+            {
+                // Ví dụ: Xử lý ảnh (logic thực tế của bạn)
+                var result = ProcessImage(tempFilePath);
+
+                // Xóa file tạm sau khi xử lý xong
+                DeleteTempFile(tempFilePath);
+
+                TempData["Success"] = "Xử lý ảnh thành công!";
+                return RedirectToAction("Index");
+            }
+            catch (Exception ex)
+            {
+                TempData["Error"] = $"Lỗi trong quá trình xử lý ảnh: {ex.Message}";
+                return RedirectToAction("Index");
+            }
+        }
+
+        // Ví dụ: Phương thức xử lý ảnh
+        private string ProcessImage(string filePath)
+        {
+            // Logic xử lý ảnh, ví dụ phân tích bằng OpenCV hoặc AI
+            // Ở đây chỉ trả về đường dẫn làm ví dụ
+            return $"Đã xử lý file: {filePath}";
+        }
+
+
+
 
 
 

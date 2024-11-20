@@ -1,4 +1,0 @@
-Task: Thiết kế tổng quan kiến trúc hệ thống, bao gồm các thành phần front-end, back-end, cơ sở dữ liệu, và API cần thiết.
-
-Kết quả: Bản thiết kế kiến trúc hoàn chỉnh.
-

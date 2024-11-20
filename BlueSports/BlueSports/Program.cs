@@ -1,8 +1,8 @@
 ﻿using AspNetCoreHero.ToastNotification;
 using BlueSports.Data;
+using BlueSports.Services;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
-//using RoboTech.Models;
 using System.Text.Encodings.Web;
 using System.Text.Unicode;
 
@@ -30,6 +30,12 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
                     p.AccessDeniedPath = "/not-found.html";
                 });
 
+// KHOITD-EV SECTION
+// ** BEGIN **
+// Register MoMoPaymentService
+builder.Services.AddHttpClient<MoMoPaymentService>();
+// ** END **
+
 // Add services to the container.
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
 /*builder.Services.AddSignalR();*/
@@ -51,7 +57,6 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-/*app.UseSession();*/
 
 app.UseSession();
 app.UseCookiePolicy();

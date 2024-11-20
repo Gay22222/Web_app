@@ -903,3 +903,1359 @@ E:\UIT\Git\Web_app\BlueSports\BlueSports\obj\Debug\net8.0\refint\BlueSports.dll
 E:\UIT\Git\Web_app\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.pdb
 E:\UIT\Git\Web_app\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.genruntimeconfig.cache
 E:\UIT\Git\Web_app\BlueSports\BlueSports\obj\Debug\net8.0\ref\BlueSports.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\appsettings.json
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\BlueSports.staticwebassets.runtime.json
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\BlueSports.exe
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\BlueSports.deps.json
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\BlueSports.runtimeconfig.json
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\BlueSports.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\BlueSports.pdb
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\mscorlib.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\netstandard.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.AppContext.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Buffers.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Collections.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ComponentModel.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Configuration.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Console.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Core.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Data.Common.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Data.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Drawing.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Globalization.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Compression.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Linq.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Memory.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Http.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Mail.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Ping.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Quic.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Requests.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Security.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Numerics.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ObjectModel.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Claims.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Principal.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Text.Json.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Transactions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ValueTuple.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Web.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Windows.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\WindowsBase.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\PagedList.Core.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\PagedList.Core.Mvc.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.csproj.AssemblyReference.cache
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.AssemblyInfoInputs.cache
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.AssemblyInfo.cs
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.csproj.CoreCompileInputs.cache
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.RazorAssemblyInfo.cache
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.RazorAssemblyInfo.cs
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.sourcelink.json
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets\msbuild.BlueSports.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets\msbuild.build.BlueSports.props
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlueSports.props
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlueSports.props
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\scopedcss\bundle\BlueSports.styles.css
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\scopedcss\projectbundle\BlueSports.bundle.scp.css
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.csproj.Up2Date
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\refint\BlueSports.dll
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.pdb
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.genruntimeconfig.cache
+C:\Users\Nhan Nub\Desktop\Code\.NET\Support\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\ref\BlueSports.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\appsettings.Development.json
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\appsettings.json
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\BlueSports.staticwebassets.runtime.json
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\BlueSports.exe
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\BlueSports.deps.json
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\BlueSports.runtimeconfig.json
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\BlueSports.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\BlueSports.pdb
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\mscorlib.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\netstandard.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.AppContext.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Buffers.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Collections.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ComponentModel.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Configuration.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Console.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Core.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Data.Common.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Data.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Drawing.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Globalization.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Compression.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Linq.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Memory.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Http.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Mail.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Ping.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Quic.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Requests.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Security.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Numerics.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ObjectModel.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Claims.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Principal.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Text.Json.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Transactions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ValueTuple.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Web.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Windows.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\WindowsBase.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\AspNetCoreHero.ToastNotification.Views.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\AspNetCoreHero.ToastNotification.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Azure.Core.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Azure.Identity.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Humanizer.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\PagedList.Core.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\PagedList.Core.Mvc.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.CodeDom.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Memory.Data.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.csproj.AssemblyReference.cache
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.AssemblyInfoInputs.cache
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.AssemblyInfo.cs
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.csproj.CoreCompileInputs.cache
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.MvcApplicationPartsAssemblyInfo.cs
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.MvcApplicationPartsAssemblyInfo.cache
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.RazorAssemblyInfo.cache
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.RazorAssemblyInfo.cs
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.sourcelink.json
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets.build.json
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets.development.json
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets\msbuild.BlueSports.Microsoft.AspNetCore.StaticWebAssets.props
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets\msbuild.build.BlueSports.props
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlueSports.props
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlueSports.props
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets.pack.json
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\scopedcss\bundle\BlueSports.styles.css
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\scopedcss\projectbundle\BlueSports.bundle.scp.css
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.csproj.Up2Date
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\refint\BlueSports.dll
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.pdb
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.genruntimeconfig.cache
+D:\EC337 - HTTTTT\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\ref\BlueSports.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\appsettings.Development.json
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\appsettings.json
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\BlueSports.staticwebassets.runtime.json
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\BlueSports.exe
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\BlueSports.deps.json
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\BlueSports.runtimeconfig.json
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\BlueSports.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\BlueSports.pdb
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\mscorlib.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\netstandard.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.AppContext.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Buffers.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Collections.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ComponentModel.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Configuration.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Console.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Core.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Data.Common.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Data.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Drawing.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Globalization.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Compression.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Linq.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Memory.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Http.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Mail.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Ping.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Quic.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Requests.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Security.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Numerics.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ObjectModel.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Claims.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Principal.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Text.Json.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Transactions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.ValueTuple.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Web.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Windows.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\refs\WindowsBase.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\AspNetCoreHero.ToastNotification.Views.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\AspNetCoreHero.ToastNotification.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Azure.Core.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Azure.Identity.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Humanizer.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\PagedList.Core.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\PagedList.Core.Mvc.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.CodeDom.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Memory.Data.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.csproj.AssemblyReference.cache
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.GeneratedMSBuildEditorConfig.editorconfig
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.AssemblyInfoInputs.cache
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.AssemblyInfo.cs
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.csproj.CoreCompileInputs.cache
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.MvcApplicationPartsAssemblyInfo.cs
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.MvcApplicationPartsAssemblyInfo.cache
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.RazorAssemblyInfo.cache
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.RazorAssemblyInfo.cs
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets.build.json
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets.development.json
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets\msbuild.BlueSports.Microsoft.AspNetCore.StaticWebAssets.props
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets\msbuild.build.BlueSports.props
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlueSports.props
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlueSports.props
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\staticwebassets.pack.json
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\scopedcss\bundle\BlueSports.styles.css
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\scopedcss\projectbundle\BlueSports.bundle.scp.css
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.csproj.Up2Date
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\refint\BlueSports.dll
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.pdb
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\BlueSports.genruntimeconfig.cache
+E:\UIT\Projekt\clone\Test\KhoiDepTrai\SuperWebApp\BlueSports\BlueSports\obj\Debug\net8.0\ref\BlueSports.dll

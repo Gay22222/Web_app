@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\BlueSports.csproj": {}
+    "E:\\UIT\\Projekt\\clone\\Test\\KhoiDepTrai\\SuperWebApp\\BlueSports\\BlueSports\\BlueSports.csproj": {}
   },
   "projects": {
-    "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\BlueSports.csproj": {
+    "E:\\UIT\\Projekt\\clone\\Test\\KhoiDepTrai\\SuperWebApp\\BlueSports\\BlueSports\\BlueSports.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\BlueSports.csproj",
+        "projectUniqueName": "E:\\UIT\\Projekt\\clone\\Test\\KhoiDepTrai\\SuperWebApp\\BlueSports\\BlueSports\\BlueSports.csproj",
         "projectName": "BlueSports",
-        "projectPath": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\BlueSports.csproj",
+        "projectPath": "E:\\UIT\\Projekt\\clone\\Test\\KhoiDepTrai\\SuperWebApp\\BlueSports\\BlueSports\\BlueSports.csproj",
         "packagesPath": "C:\\Users\\QUANG\\.nuget\\packages\\",
-        "outputPath": "E:\\UIT\\Git\\Web_app\\BlueSports\\BlueSports\\obj\\",
+        "outputPath": "E:\\UIT\\Projekt\\clone\\Test\\KhoiDepTrai\\SuperWebApp\\BlueSports\\BlueSports\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

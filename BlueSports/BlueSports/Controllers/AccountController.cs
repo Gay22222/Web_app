@@ -39,7 +39,7 @@ namespace BlueSports.Controllers
         public async Task<IActionResult> Register(RegisterViewModel newUser, string userType = "Customer")
         {
             // Kiểm tra xem tên người dùng hoặc email đã tồn tại chưa
-            var existingUser = _context.Users.SingleOrDefault(u => u.UserName == newUser.UserName || u.Email == newUser.Email);
+            var existingUser = _context.Users.FirstOrDefault(u => u.UserName == newUser.UserName || u.Email == newUser.Email);
             if (existingUser != null)
             {
                 ViewBag.Error = "Username or Email already exists";
@@ -106,7 +106,7 @@ namespace BlueSports.Controllers
         public async Task<IActionResult> Login(LoginViewModel userLogin)
         {
             // Tìm người dùng bằng email
-            var user = _context.Users.SingleOrDefault(u => u.Email == userLogin.Email);
+            var user = _context.Users.FirstOrDefault(u => u.Email == userLogin.Email);
             if (user == null || !VerifyPassword(userLogin.Password, user.PasswordHash))
             {
                 ViewBag.Error = "Invalid email or password";
@@ -156,10 +156,10 @@ namespace BlueSports.Controllers
         {
             if (User.Identity.IsAuthenticated)
             {
-                var userID = User.Claims.SingleOrDefault(c => c.Type == "UserId")?.Value;
+                var userID = User.Claims.FirstOrDefault(c => c.Type == "UserId")?.Value;
                 if (!string.IsNullOrEmpty(userID))
                 {
-                    var user = _context.Users.SingleOrDefault(u => u.UserID == Convert.ToInt32(userID));
+                    var user = _context.Users.FirstOrDefault(u => u.UserID == Convert.ToInt32(userID));
                     if (user != null)
                     {
                         var lsDonHang = _context.Orders
