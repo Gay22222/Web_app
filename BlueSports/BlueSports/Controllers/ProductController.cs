@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using PagedList.Core;
 using Microsoft.AspNetCore.Hosting;
+using Newtonsoft.Json;
 
 namespace BlueSports.Controllers
 {
@@ -214,7 +215,7 @@ namespace BlueSports.Controllers
         {
             if (imageFile == null || imageFile.Length == 0)
             {
-                _notyfService.Success("Vui lòng chọn một file hợp lệ!");
+                _notyfService.Warning("Vui lòng chọn một file hợp lệ!");
                 return RedirectToAction("Index"); // Chuyển hướng về trang chính
             }
 
@@ -285,7 +286,57 @@ namespace BlueSports.Controllers
             return $"Đã xử lý file: {filePath}";
         }
 
+        [HttpPost]
+        public async Task<IActionResult> AnalyzeImage(IFormFile imageFile)
+        {
+            if (imageFile == null || imageFile.Length == 0)
+            {
+                _notyfService.Warning("Vui lòng chọn một file hợp lệ!");
+                return RedirectToAction("Index");
+            }
 
+            using (var client = new HttpClient())
+            {
+                try
+                {
+                    // Gửi ảnh tới REST API
+                    var requestContent = new MultipartFormDataContent();
+                    var imageContent = new StreamContent(imageFile.OpenReadStream());
+                    requestContent.Add(imageContent, "file", imageFile.FileName);
+
+                    var response = await client.PostAsync("http://localhost:8000/detect/", requestContent);
+                    if (response.IsSuccessStatusCode)
+                    {
+                        var responseData = await response.Content.ReadAsStringAsync();
+
+                        // Deserialize JSON trả về
+                        var detectionResult = JsonConvert.DeserializeObject<DetectionResult>(responseData);
+
+                        // Truyền kết quả qua View
+                        return View("Result", detectionResult);
+                    }
+                    else
+                    {
+                        TempData["Error"] = "Không thể phân tích ảnh.";
+                        return RedirectToAction("Index");
+                    }
+                }
+                catch (Exception ex)
+                {
+                    TempData["Error"] = $"Lỗi khi kết nối API: {ex.Message}";
+                    return RedirectToAction("Index");
+                }
+            }
+        }
+
+
+
+
+
+        public IActionResult Result()
+        {
+            return View();
+        }
 
 
 

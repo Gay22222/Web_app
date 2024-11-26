@@ -52,14 +52,14 @@
                 </form>
 
 
-                        <!-- Dropdown với icon camera -->
+                        <!-- icon camera Dropdown  -->
                         <div class="btn-group ms-2">
                             <button type="button" class="btn btn-outline-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
                                 <i class="fa-solid fa-camera"></i>
                             </button>
                             <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuButton">
                                 <li>
-                                    <form asp-action="UploadImage" asp-controller="Product" enctype="multipart/form-data" method="post">
+                                    <form asp-action="AnalyzeImage" asp-controller="Product" enctype="multipart/form-data" method="post">
                                         <label class="dropdown-item">
                                             <i class="fa-solid fa-upload me-2"></i>
                                             <input type="file" name="imageFile" class="d-none" onchange="this.form.submit()" accept="image/*" /> Tải ảnh lên

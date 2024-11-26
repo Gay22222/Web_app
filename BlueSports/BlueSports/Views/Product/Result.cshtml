@@ -1,0 +1,33 @@
+﻿@model DetectionResult
+
+<h2>Kết quả phân tích ảnh</h2>
+<div class="alert alert-success">
+    @if (Model.Predictions != null && Model.Predictions.Count > 0)
+    {
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Danh mục</th>
+                    <th>Độ tin cậy</th>
+                    <th>Bounding Box</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var prediction in Model.Predictions)
+                {
+                    <tr>
+                        <td>@prediction.Label</td>
+                        <td>@prediction.Confidence.ToString("P")</td>
+                        <td>
+                            [@string.Join(", ", prediction.Bbox)]
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Không tìm thấy đối tượng nào trong ảnh.</p>
+    }
+</div>
